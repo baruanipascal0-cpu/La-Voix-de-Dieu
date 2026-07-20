@@ -19,6 +19,7 @@ use App\Models\Program;
 use App\Models\Testimonial;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
+use App\Services\LivekitTokenService;
 use Illuminate\Support\Collection;
 
 class PublicChurchController extends Controller
@@ -266,7 +267,7 @@ class PublicChurchController extends Controller
         ]);
     }
 
-    public function launchPrayerRoom(LaunchPrayerRoomRequest $request): JsonResponse
+    public function launchPrayerRoom(LaunchPrayerRoomRequest $request, LivekitTokenService $livekit): JsonResponse
     {
         $room = PrayerRoom::query()
             ->where('is_active', true)
@@ -279,6 +280,9 @@ class PublicChurchController extends Controller
 
         abort_unless($room, 404);
 
+        $livekitRoom = $livekit->prayerRoomName($room);
+        $livekitToken = $room->meeting_url ? null : $livekit->makePrayerRoomToken($request->user(), $room);
+
         $payload = [
             'room' => PrayerRoomResource::make($room)->resolve($request),
             'launch' => true,
@@ -287,9 +291,14 @@ class PublicChurchController extends Controller
             'provider' => $room->meeting_url ? 'url' : 'livekit',
             'meeting_url' => $room->meeting_url,
             'meetingUrl' => $room->meeting_url,
-            'livekit_room' => $room->livekit_room,
-            'livekitRoom' => $room->livekit_room,
-            'token' => null,
+            'livekit_url' => $livekit->url(),
+            'livekitUrl' => $livekit->url(),
+            'url' => $room->meeting_url ?: $livekit->url(),
+            'livekit_room' => $livekitRoom,
+            'livekitRoom' => $livekitRoom,
+            'room_name' => $livekitRoom,
+            'roomName' => $livekitRoom,
+            'token' => $livekitToken,
         ];
 
         return response()->json([

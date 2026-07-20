@@ -235,6 +235,34 @@ class SocialApiTest extends TestCase
             ->assertForbidden();
     }
 
+    public function test_private_group_cannot_be_joined_by_id_by_non_member(): void
+    {
+        $owner = User::factory()->create();
+        $visitor = User::factory()->create();
+
+        $group = SocialGroup::create([
+            'name' => 'Groupe interne',
+            'slug' => 'groupe-interne',
+            'status' => 'approved',
+            'is_public' => false,
+            'requires_approval' => true,
+            'is_active' => true,
+            'created_by' => $owner->id,
+        ]);
+
+        $token = $visitor->createToken('mobile')->plainTextToken;
+
+        $this
+            ->withHeader('Authorization', 'Bearer '.$token)
+            ->postJson('/api/v1/public/groups/'.$group->id.'/join/')
+            ->assertForbidden();
+
+        $this->assertDatabaseMissing('social_group_members', [
+            'social_group_id' => $group->id,
+            'user_id' => $visitor->id,
+        ]);
+    }
+
     private function forgetAuthGuards(): void
     {
         $this->app['auth']->forgetGuards();

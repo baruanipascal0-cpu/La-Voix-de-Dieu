@@ -20,7 +20,17 @@ class CallController extends BaseSocialController
     {
         $calls = CallSession::query()
             ->with(['initiator', 'recipient', 'group'])
-            ->whereIn('call_type', ['public', 'group'])
+            ->where(function (Builder $query): void {
+                $query
+                    ->where('call_type', 'public')
+                    ->orWhere(function (Builder $query): void {
+                        $query
+                            ->where('call_type', 'group')
+                            ->whereHas('group', fn (Builder $group): Builder => $group
+                                ->where('is_public', true)
+                                ->where('status', 'approved'));
+                    });
+            })
             ->whereNotIn('status', ['ended', 'declined', 'cancelled'])
             ->orderByDesc('created_at')
             ->limit(min((int) $request->integer('limit', 30), 100))

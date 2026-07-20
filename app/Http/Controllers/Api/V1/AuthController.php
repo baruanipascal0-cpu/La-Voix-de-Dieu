@@ -20,7 +20,11 @@ class AuthController extends Controller
 {
     private const ACCESS_TOKEN_DAYS = 7;
 
+    private const ACCESS_TOKEN_ABILITY = 'access-api';
+
     private const REFRESH_TOKEN_DAYS = 60;
+
+    private const REFRESH_TOKEN_ABILITY = 'refresh';
 
     public function register(RegisterRequest $request): JsonResponse
     {
@@ -101,7 +105,7 @@ class AuthController extends Controller
 
         $token = PersonalAccessToken::findToken($plainToken);
 
-        if (! $token || ! $token->can('refresh') || ! $token->tokenable instanceof User) {
+        if (! $token || ! $token->can(self::REFRESH_TOKEN_ABILITY) || ! $token->tokenable instanceof User) {
             throw ValidationException::withMessages([
                 'refresh_token' => 'Refresh token invalide.',
             ]);
@@ -116,6 +120,15 @@ class AuthController extends Controller
         }
 
         $user = $token->tokenable;
+
+        if (! $user->is_active || $user->suspended_at || $user->blocked_at) {
+            $token->delete();
+
+            throw ValidationException::withMessages([
+                'refresh_token' => 'Ce compte est suspendu, bloque ou desactive.',
+            ]);
+        }
+
         $token->delete();
 
         $user->forceFill(['last_seen_at' => now()])->save();
@@ -176,6 +189,16 @@ class AuthController extends Controller
 
     public function logout(Request $request): JsonResponse
     {
+        $refreshToken = $request->input('refresh_token') ?? $request->input('refreshToken');
+
+        if (filled($refreshToken)) {
+            $token = PersonalAccessToken::findToken((string) $refreshToken);
+
+            if ($token && $token->tokenable instanceof User && $token->tokenable->is($request->user()) && $token->can(self::REFRESH_TOKEN_ABILITY)) {
+                $token->delete();
+            }
+        }
+
         $request->user()->currentAccessToken()?->delete();
 
         return response()->json([
@@ -186,11 +209,11 @@ class AuthController extends Controller
     private function issueTokenResponse(User $user, string $message, int $status = 200): JsonResponse
     {
         $accessToken = $user
-            ->createToken('mobile-access', ['*'], now()->addDays(self::ACCESS_TOKEN_DAYS))
+            ->createToken('mobile-access', [self::ACCESS_TOKEN_ABILITY], now()->addDays(self::ACCESS_TOKEN_DAYS))
             ->plainTextToken;
 
         $refreshToken = $user
-            ->createToken('mobile-refresh', ['refresh'], now()->addDays(self::REFRESH_TOKEN_DAYS))
+            ->createToken('mobile-refresh', [self::REFRESH_TOKEN_ABILITY], now()->addDays(self::REFRESH_TOKEN_DAYS))
             ->plainTextToken;
 
         return response()->json([

@@ -255,7 +255,8 @@ class PublicChurchApiTest extends TestCase
             ])
             ->assertOk()
             ->assertJsonPath('data.canJoin', true)
-            ->assertJsonPath('data.meetingUrl', 'https://meet.example.test/priere');
+            ->assertJsonPath('data.meetingUrl', 'https://meet.example.test/priere')
+            ->assertJsonPath('data.roomName', 'prayer-room-1');
 
         $this
             ->getJson('/api/v1/public/pastor-calendar/')

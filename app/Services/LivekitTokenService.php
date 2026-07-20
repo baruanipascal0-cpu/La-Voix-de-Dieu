@@ -3,6 +3,7 @@
 namespace App\Services;
 
 use App\Models\CallSession;
+use App\Models\PrayerRoom;
 use App\Models\User;
 
 class LivekitTokenService
@@ -21,6 +22,27 @@ class LivekitTokenService
 
     public function makeToken(User $user, CallSession $call): ?string
     {
+        return $this->makeRoomToken($user, $call->room_name, [
+            'call_id' => $call->id,
+            'call_uuid' => $call->uuid,
+        ]);
+    }
+
+    public function makePrayerRoomToken(User $user, PrayerRoom $room): ?string
+    {
+        return $this->makeRoomToken($user, $this->prayerRoomName($room), [
+            'prayer_room_id' => $room->id,
+            'prayer_room_slug' => $room->slug,
+        ]);
+    }
+
+    public function prayerRoomName(PrayerRoom $room): string
+    {
+        return $room->livekit_room ?: 'prayer-room-'.$room->id;
+    }
+
+    private function makeRoomToken(User $user, string $roomName, array $metadata = []): ?string
+    {
         if (! $this->configured()) {
             return null;
         }
@@ -36,16 +58,14 @@ class LivekitTokenService
             'exp' => $now + $ttl,
             'video' => [
                 'roomJoin' => true,
-                'room' => $call->room_name,
+                'room' => $roomName,
                 'canPublish' => true,
                 'canSubscribe' => true,
                 'canPublishData' => true,
             ],
-            'metadata' => json_encode([
+            'metadata' => json_encode(array_merge([
                 'user_id' => $user->id,
-                'call_id' => $call->id,
-                'call_uuid' => $call->uuid,
-            ]),
+            ], $metadata), JSON_THROW_ON_ERROR),
         ];
 
         return $this->jwt($payload, (string) config('services.livekit.api_secret'));

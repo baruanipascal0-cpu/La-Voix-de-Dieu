@@ -51,7 +51,7 @@ class PublicContentApiTest extends TestCase
 
     public function test_public_sermon_detail_endpoint_returns_one_sermon(): void
     {
-        Sermon::create([
+        $sermon = Sermon::create([
             'title' => 'Message du dimanche',
             'slug' => 'message-du-dimanche',
             'description' => 'Un message pour la communaute.',
@@ -63,6 +63,11 @@ class PublicContentApiTest extends TestCase
             ->assertOk()
             ->assertJsonPath('data.slug', 'message-du-dimanche')
             ->assertJsonPath('sermon.description', 'Un message pour la communaute.');
+
+        $this
+            ->getJson('/api/v1/public/sermons/'.$sermon->id.'/')
+            ->assertOk()
+            ->assertJsonPath('data.slug', 'message-du-dimanche');
     }
 
     public function test_public_radio_endpoint_returns_active_streams(): void

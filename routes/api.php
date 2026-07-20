@@ -22,7 +22,7 @@ Route::prefix('v1')->group(function (): void {
         Route::post('login', [AuthController::class, 'login']);
         Route::post('refresh', [AuthController::class, 'refresh']);
 
-        Route::middleware('auth:sanctum')->group(function (): void {
+        Route::middleware(['auth:sanctum', 'ability:access-api'])->group(function (): void {
             Route::get('me', [AuthController::class, 'me']);
             Route::post('device-token', [AuthController::class, 'deviceToken']);
             Route::delete('device-token', [AuthController::class, 'deleteDeviceToken']);
@@ -30,7 +30,7 @@ Route::prefix('v1')->group(function (): void {
         });
     });
 
-    Route::middleware('auth:sanctum')->group(function (): void {
+    Route::middleware(['auth:sanctum', 'ability:access-api'])->group(function (): void {
         Route::get('media/uploads', [MediaController::class, 'index']);
         Route::post('media/uploads', [MediaController::class, 'store']);
         Route::delete('media/uploads/{mediaUpload}', [MediaController::class, 'destroy']);
@@ -46,7 +46,7 @@ Route::prefix('v1')->group(function (): void {
 
     Route::prefix('public')->group(function (): void {
         Route::get('sermons', [PublicContentController::class, 'sermons']);
-        Route::get('sermons/{sermon:slug}', [PublicContentController::class, 'sermon']);
+        Route::get('sermons/{sermon}', [PublicContentController::class, 'sermon']);
         Route::get('radio', [PublicContentController::class, 'radio']);
         Route::get('live', [PublicContentController::class, 'live']);
 
@@ -62,41 +62,41 @@ Route::prefix('v1')->group(function (): void {
         Route::get('quote', [PublicChurchController::class, 'quote']);
         Route::get('quotes', [PublicChurchController::class, 'quotes']);
         Route::get('prayer-rooms', [PublicChurchController::class, 'prayerRooms']);
-        Route::post('prayer-rooms/launch', [PublicChurchController::class, 'launchPrayerRoom'])->middleware('auth:sanctum');
+        Route::post('prayer-rooms/launch', [PublicChurchController::class, 'launchPrayerRoom'])->middleware(['auth:sanctum', 'ability:access-api']);
         Route::get('pastor-calendar', [PublicChurchController::class, 'pastorCalendar']);
 
         Route::get('chat', [PublicChatController::class, 'index']);
-        Route::post('chat', [PublicChatController::class, 'store'])->middleware('auth:sanctum');
-        Route::post('chat/seen', [PublicChatController::class, 'markSeen'])->middleware('auth:sanctum');
+        Route::post('chat', [PublicChatController::class, 'store'])->middleware(['auth:sanctum', 'ability:access-api']);
+        Route::post('chat/seen', [PublicChatController::class, 'markSeen'])->middleware(['auth:sanctum', 'ability:access-api']);
 
         Route::get('groups', [GroupController::class, 'index']);
-        Route::post('groups', [GroupController::class, 'store'])->middleware('auth:sanctum');
-        Route::get('groups/mine', [GroupController::class, 'mine'])->middleware('auth:sanctum');
-        Route::post('groups/{group}/join', [GroupController::class, 'join'])->middleware('auth:sanctum');
+        Route::post('groups', [GroupController::class, 'store'])->middleware(['auth:sanctum', 'ability:access-api']);
+        Route::get('groups/mine', [GroupController::class, 'mine'])->middleware(['auth:sanctum', 'ability:access-api']);
+        Route::post('groups/{group}/join', [GroupController::class, 'join'])->middleware(['auth:sanctum', 'ability:access-api']);
         Route::get('groups/{group}/chat', [GroupController::class, 'messages']);
-        Route::post('groups/{group}/chat', [GroupController::class, 'storeMessage'])->middleware('auth:sanctum');
+        Route::post('groups/{group}/chat', [GroupController::class, 'storeMessage'])->middleware(['auth:sanctum', 'ability:access-api']);
 
-        Route::get('dm/calls', [CallController::class, 'dmIndex'])->middleware('auth:sanctum');
-        Route::post('dm/calls', [CallController::class, 'dmStore'])->middleware('auth:sanctum');
-        Route::post('dm/calls/seen', [CallController::class, 'markDmSeen'])->middleware('auth:sanctum');
-        Route::get('dm', [DirectMessageController::class, 'index'])->middleware('auth:sanctum');
-        Route::post('dm', [DirectMessageController::class, 'store'])->middleware('auth:sanctum');
-        Route::get('dm/{conversation}', [DirectMessageController::class, 'show'])->middleware('auth:sanctum');
-        Route::post('dm/{conversation}', [DirectMessageController::class, 'storeInThread'])->middleware('auth:sanctum');
+        Route::get('dm/calls', [CallController::class, 'dmIndex'])->middleware(['auth:sanctum', 'ability:access-api']);
+        Route::post('dm/calls', [CallController::class, 'dmStore'])->middleware(['auth:sanctum', 'ability:access-api']);
+        Route::post('dm/calls/seen', [CallController::class, 'markDmSeen'])->middleware(['auth:sanctum', 'ability:access-api']);
+        Route::get('dm', [DirectMessageController::class, 'index'])->middleware(['auth:sanctum', 'ability:access-api']);
+        Route::post('dm', [DirectMessageController::class, 'store'])->middleware(['auth:sanctum', 'ability:access-api']);
+        Route::get('dm/{conversation}', [DirectMessageController::class, 'show'])->middleware(['auth:sanctum', 'ability:access-api']);
+        Route::post('dm/{conversation}', [DirectMessageController::class, 'storeInThread'])->middleware(['auth:sanctum', 'ability:access-api']);
 
         Route::get('calls', [CallController::class, 'publicIndex']);
-        Route::post('calls', [CallController::class, 'publicStore'])->middleware('auth:sanctum');
-        Route::get('social/unread', [UnreadController::class, 'social'])->middleware('auth:sanctum');
+        Route::post('calls', [CallController::class, 'publicStore'])->middleware(['auth:sanctum', 'ability:access-api']);
+        Route::get('social/unread', [UnreadController::class, 'social'])->middleware(['auth:sanctum', 'ability:access-api']);
     });
 
     // Compatibility aliases kept for the APK-era social contract.
     Route::get('chat', [PublicChatController::class, 'index']);
-    Route::post('chat', [PublicChatController::class, 'store'])->middleware('auth:sanctum');
+    Route::post('chat', [PublicChatController::class, 'store'])->middleware(['auth:sanctum', 'ability:access-api']);
     Route::get('messages', [PublicChatController::class, 'index']);
     Route::get('groups', [GroupController::class, 'index']);
-    Route::get('calls', [CallController::class, 'index'])->middleware('auth:sanctum');
-    Route::post('call', [CallController::class, 'store'])->middleware('auth:sanctum');
-    Route::post('call/{call}/token', [RealtimeController::class, 'callToken'])->middleware('auth:sanctum');
-    Route::post('call/signal', [CallController::class, 'storeSignal'])->middleware('auth:sanctum');
-    Route::post('call/state', [CallController::class, 'updateState'])->middleware('auth:sanctum');
+    Route::get('calls', [CallController::class, 'index'])->middleware(['auth:sanctum', 'ability:access-api']);
+    Route::post('call', [CallController::class, 'store'])->middleware(['auth:sanctum', 'ability:access-api']);
+    Route::post('call/{call}/token', [RealtimeController::class, 'callToken'])->middleware(['auth:sanctum', 'ability:access-api']);
+    Route::post('call/signal', [CallController::class, 'storeSignal'])->middleware(['auth:sanctum', 'ability:access-api']);
+    Route::post('call/state', [CallController::class, 'updateState'])->middleware(['auth:sanctum', 'ability:access-api']);
 });

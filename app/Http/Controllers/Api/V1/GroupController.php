@@ -124,7 +124,25 @@ class GroupController extends BaseSocialController
     public function join(Request $request, string $group): JsonResponse
     {
         $group = $this->findGroup($group);
-        $status = $group->requires_approval ? 'pending' : 'active';
+        $membership = $group->members()
+            ->where('users.id', $request->user()->id)
+            ->first()?->pivot;
+
+        if ($membership?->status === 'active') {
+            return response()->json([
+                'message' => 'Groupe deja rejoint.',
+                'data' => $this->groupPayload($group->loadCount('members'), $request),
+                'group' => $this->groupPayload($group, $request),
+                'status' => 'active',
+            ]);
+        }
+
+        abort_unless(
+            $group->is_public || $membership || $this->canManageSocial($request->user()),
+            403,
+        );
+
+        $status = $group->requires_approval && ! $this->canManageSocial($request->user()) ? 'pending' : 'active';
 
         $group->members()->syncWithoutDetaching([
             $request->user()->id => [
@@ -194,5 +212,10 @@ class GroupController extends BaseSocialController
         } catch (PermissionDoesNotExist) {
             return false;
         }
+    }
+
+    private function canManageSocial($user): bool
+    {
+        return $user?->can('manage social') ?? false;
     }
 }

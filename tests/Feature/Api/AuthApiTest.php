@@ -80,6 +80,25 @@ class AuthApiTest extends TestCase
             ->assertJsonStructure(['access_token', 'refresh_token', 'user']);
     }
 
+    public function test_refresh_token_cannot_access_protected_mobile_routes(): void
+    {
+        $user = User::factory()->create([
+            'password' => 'password123',
+        ]);
+
+        $login = $this->postJson('/api/v1/auth/login/', [
+            'email' => $user->email,
+            'password' => 'password123',
+        ]);
+
+        $refreshToken = $login->json('refresh_token');
+
+        $this
+            ->withHeader('Authorization', 'Bearer '.$refreshToken)
+            ->getJson('/api/v1/auth/me/')
+            ->assertForbidden();
+    }
+
     public function test_authenticated_user_can_store_device_token(): void
     {
         $user = User::factory()->create();

@@ -14,6 +14,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
+use Spatie\Permission\Exceptions\PermissionDoesNotExist;
 use Spatie\Permission\Traits\HasRoles;
 
 #[Fillable(['name', 'email', 'phone', 'password', 'avatar_url', 'role', 'is_active', 'last_seen_at', 'suspended_at', 'blocked_at', 'moderation_reason'])]
@@ -29,6 +30,14 @@ class User extends Authenticatable implements FilamentUser
     {
         if (! $this->is_active || $this->suspended_at || $this->blocked_at) {
             return false;
+        }
+
+        try {
+            if ($this->hasPermissionTo('access admin', 'web')) {
+                return true;
+            }
+        } catch (PermissionDoesNotExist) {
+            // Permissions may not be seeded yet during the first deployment.
         }
 
         return $this->hasAnyRole(['super_admin', 'admin', 'editor', 'moderator', 'media_manager', 'prayer_leader'])

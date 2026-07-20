@@ -51,8 +51,13 @@ class PublicContentController extends Controller
         ]);
     }
 
-    public function sermon(Sermon $sermon): JsonResponse
+    public function sermon(string $sermon): JsonResponse
     {
+        $sermon = Sermon::query()
+            ->where('slug', $sermon)
+            ->when(ctype_digit($sermon), fn ($query) => $query->orWhere('id', (int) $sermon))
+            ->firstOrFail();
+
         abort_unless($sermon->is_published, 404);
 
         return response()->json([

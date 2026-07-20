@@ -1,0 +1,46 @@
+      <stop offset="0%" stop-color="#6B4423"/>
+      <stop offset="0%" stop-color="#E83A48"/>
+      <stop offset="0%" stop-color="#F5E6BD"/>
+      <stop offset="100%" stop-color="#3D2410"/>
+      <stop offset="100%" stop-color="#A01521"/>
+      <stop offset="100%" stop-color="#C4A969"/>
+    </linearGradient>
+    <circle cx="65" cy="30" r="11" fill="#FAFAFA"/>
+    <circle cx="69" cy="29" r="1.5" fill="#1a1a1a"/>
+    <ellipse cx="65" cy="50" rx="14" ry="22" fill="url(#eagleBody)"/>
+    <linearGradient id="eagleBody" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="roof" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1">
+    <path d="M 0 40 C 20 10, 50 0, 70 25 L 60 45 C 45 30, 25 35, 10 55 Z" fill="url(#eagleBody)"/>
+    <path d="M 130 40 C 110 10, 80 0, 60 25 L 70 45 C 85 30, 105 35, 120 55 Z" fill="url(#eagleBody)"/>
+    <path d="M 60 70 L 56 80 M 65 70 L 65 82 M 70 70 L 74 80" stroke="#F0B30A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <polygon points="74,32 84,36 74,40" fill="#F0B30A"/>
+    <rect x="0" y="6" width="6" height="40" rx="1" fill="#E83A48"/>
+    <rect x="110" y="320" width="22" height="60" rx="11"/>
+    <rect x="14" y="0" width="6" height="56" rx="1" fill="#F97316"/>
+    <rect x="145" y="320" width="22" height="60" rx="11"/>
+    <rect x="180" y="320" width="22" height="60" rx="11"/>
+    <rect x="232" y="310" width="48" height="80" rx="24"/>
+    <rect x="28" y="14" width="6" height="36" rx="1" fill="#F97316"/>
+    <rect x="310" y="320" width="22" height="60" rx="11"/>
+    <rect x="345" y="320" width="22" height="60" rx="11"/>
+    <rect x="380" y="320" width="22" height="60" rx="11"/>
+    <rect x="42" y="10" width="6" height="50" rx="1" fill="#38BDF8"/>
+    <rect x="56" y="0" width="6" height="56" rx="1" fill="#F97316"/>
+    <rect x="70" y="14" width="6" height="36" rx="1" fill="#6366F1"/>
+    <rect x="84" y="14" width="6" height="36" rx="1" fill="#38BDF8"/>
+    <rect x="98" y="6" width="6" height="40" rx="1" fill="#1E1B4B"/>
+  </defs>
+  </g>
+  <defs>
+  <ellipse cx="256" cy="402" rx="200" ry="6" fill="#C4A969" opacity="0.6"/>
+  <g fill="#FFFFFF" opacity="0.55">
+  <g transform="translate(186, 430)">
+  <g transform="translate(190, 30)">
+  <polygon points="80,280 100,280 256,140 256,120" fill="#7A0E18" opacity="0.5"/>
+  <polygon points="80,280 256,120 432,280" fill="url(#roof)"/>
+  <rect x="220" y="195" width="72" height="20" rx="2" fill="#FFFFFF"/>
+  <rect x="246" y="170" width="20" height="80" rx="2" fill="#FFFFFF"/>
+  <rect x="80" y="280" width="352" height="120" rx="4" fill="url(#wall)"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">

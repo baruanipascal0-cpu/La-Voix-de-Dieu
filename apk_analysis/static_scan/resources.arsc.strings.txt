@@ -1,0 +1,5364 @@
+  "%1$s" disalin ke papan keratan.
+  "%1$s" is na knipbord gekopieer.
+  %1$s har kopierats till Urklipp.
+  abc_config_actionMenuItemAllCaps
+  abc_disabled_alpha_material_dark
+  abc_edit_text_inset_top_material
+  abc_ic_menu_selectall_mtrl_alpha
+  abc_ic_voice_search_api_material
+  abc_menu_function_shortcut_label
+  abc_menu_hardkey_panel_mtrl_mult
+  abc_progress_bar_height_material
+  abc_ratingbar_indicator_material
+  abc_search_view_preferred_height
+  abc_searchview_description_clear
+  abc_searchview_description_query
+  abc_searchview_description_voice
+  abc_secondary_text_material_dark
+  abc_text_size_display_1_material
+  abc_text_size_display_2_material
+  abc_text_size_display_3_material
+  abc_text_size_display_4_material
+  abc_textfield_default_mtrl_alpha
+  abc_toolbar_collapse_description
+  Activer les services Google Play
+  Atualizar o Google Play Services
+  Base.AlertDialog.AppCompat.Light
+  Base.Animation.AppCompat.Tooltip
+  Base.DialogWindowTitle.AppCompat
+  Base.Theme.AppCompat.CompactMenu
+  Base.ThemeOverlay.AppCompat.Dark
+  Base.V7.Widget.AppCompat.Toolbar
+  Base.Widget.AppCompat.ActionMode
+  Base.Widget.AppCompat.SearchView
+  bright_foreground_material_light
+  browser_actions_context_menu_row
+  call_notification_decline_action
+  call_notification_hang_up_action
+  call_notification_screening_text
+  Dayakan perkhidmatan Google Play
+  Dostupnost usluga za Google Play
+  Eroare a serviciilor Google Play
+  Erro nos servizos de Google Play
+  Google Play-Dienste installieren
+  Hasi saioa Google-ko kontuarekin
+  highlight_alpha_material_colored
+  hint_pressed_alpha_material_dark
+  Imesimamisha shughuli ya kupakua
+  Ketersediaan layanan Google Play
+  media_controller_compat_view_tag
+  Nagsi-screen ng papasok na tawag
+  Nakopya sa clipboard ang "%1$s."
+  notification_action_color_filter
+  notification_media_cancel_action
+  notification_media_narrow_margin
+  notification_template_custom_big
+  notification_template_icon_group
+  Obtener servicios de Google Play
+  Posodobitev storitev Google Play
+  preference_fallback_accent_color
+  preference_list_divider_material
+  preferenceCategoryTitleTextColor
+  PreferenceCategoryTitleTextStyle
+  TextAppearance.AppCompat.Caption
+  TextAppearance.AppCompat.Inverse
+  TextAppearance.AppCompat.Subhead
+  TextAppearance.AppCompat.Tooltip
+  ThemeOverlay.AppCompat.ActionBar
+  tooltip_precise_anchor_threshold
+  view_tree_view_model_store_owner
+  Widget.AppCompat.ActionBar.Solid
+  Widget.AppCompat.Light.ActionBar
+  Widget.AppCompat.Light.PopupMenu
+  Widget.AppCompat.ListPopupWindow
+  Widget.AppCompat.RatingBar.Small
+  Widget.Support.CoordinatorLayout
+ !Activer les services Google
+ !Erro dos Servi
+ !Omogu
+ !Prenosi so za
+ "%1$s" 
+ "%1$s" en el portapapeles.
+ "%1$s" kopirano u me
+ "%1$s", 
+ "%s"
+ "Aktualiz
+ "Luaj me Google". Ai do t
+ "Pobierane pliki oczekuj
+ "Preveruje sa prich
+ #A let
+ #Google
+ #Po filtron nj
+ #Povezava je kopirana v odlo
+ $Filtruj
+ $Suppression des t
+ %1$s
+ %1$s 
+ %1$s ir radusies probl
+ %1$s kopioitiin leikep
+ %1$s, Google Play 
+ %2$s
+ %s 
+ 3Google Play 
+ 4"%1$s" 
+ a fost copiat 
+ a menos que actives os servizos de Google Play.
+ a menos que actualices los servicios de Google Play.
+ a menos que actualices os servizos de Google Play.
+ a menos que habilites los servicios de Google Play.
+ a ter problemas com os Servi
+ a v
+ Activa
+ activa
+ actualitzant en aquest moment.
+ actualiza
+ actualizando en este momento.
+ afrita
+ aktualizov
+ al porta-retalls
+ alkalmaz
+ allt
+ amb Google
+ aplik
+ aplikace %1$s je t
+ aplikace %1$s jsou pot
+ aplikacion
+ atualizada automaticamente em breve.
+ atualizado em breve.
+ autom
+ baixant
+ bekleniyor
+ bez slu
+ bez Us
+ BGoogle Play 
+ bylo dokon
+ caktuar
+ cilat mungojn
+ cilat nuk mb
+ cilat po p
+ com problemas com o Google Play Services. Tente novamente.
+ compat
+ copi
+ cu Google
+ dans le presse-papier.
+ dans le presse-papiers
+ dans le presse-papiers.
+ daxil olun
+ de Serveis de Google Play. S'actualitzar
+ des services Google
+ des services Google Play
+ desc
+ di Google Play Services
+ din enhed.
+ din nou.
+ do schowka.
+ do schr
+ dopyt
+ Dost
+ Dostupnos
+ durdurulub
+ edin
+ el v
+ en breve.
+ enheten din.
+ enheten.
+ er a
+ er kopiert til utklippstavlen.
+ eseguito a breve.
+ executado enquanto n
+ executado sem os Servi
+ executado sem os servi
+ FGoogle Play 
+ Filtrando uma liga
+ filtrant una trucada entrant
+ funciona com o Google Play Services ativado.
+ funciona com uma vers
+ funksionoj
+ gangi
+ gerekiyor. Kendisini k
+ gerir 
+ git
+ Google
+ Google 
+ Google Play
+ Google Play 
+ Google Play Palveluita.
+ Google Play Palvelut
+ Google Play Services
+ Google Play services 
+ Google Play Services-
+ Google Play xidm
+ Google Play, 
+ Google Play-
+ Google Play-tj
+ Google Play-tjenester
+ Google Play-tjenester.
+ Google Play.
+ Google Play. 
+ Google Play. D
+ Google Play. H
+ Google Play. Thi
+ Google-
+ halda 
+ hasta que finalice la actualizaci
+ hasta que no actualices Servicios de Google Play.
+ hasta que no habilites Servicios de Google Play.
+ hetkell
+ hiba
+ hovor
+ hyr
+ inn
+ inn me
+ instal
+ instalado no seu dispositivo.
+ installere en ny versjon av Google Play-tjenester. Appen oppdateres automatisk om en kort stund.
+ ir j
+ ir kop
+ je bilo kopirano v odlo
+ je kopiran u privremenu memoriju.
+ jour
+ jour les services Google
+ jour les services Google Play
+ jour les services Google Play.
+ jour.
+ jsou pr
+ kaikki
+ keres
+ khi b
+ kilo problem
+ kimi i
+ klaida
+ klippibor
+ Kop
+ kopyala
+ kopyaland
+ kujtes
+ kysely
+ l'accueil
+ la descarga
+ laz
+ les services Google
+ les services Google Play.
+ LGoogle 
+ linkul
+ med Google
+ mobilen
+ N"%1$s" 
+ na plochu
+ na s
+ na sie
+ na stron
+ na Wi
+ na Wi-Fi
+ na WiFi
+ na zariaden
+ nahor
+ nastaven
+ nebus paleid
+ necess
+ nejsou podporov
+ nem
+ nettverket
+ netv
+ neveiks, jei ne
+ Notiek lejupiel
+ nukopijuota 
+ nytt.
+ o nou
+ obecnie aktualizowane.
+ obecnie obs
+ obsah
+ odkaz
+ oleva puhelu
+ Omogo
+ on l
+ opcija
+ opp
+ pa sh
+ pagrindin
+ pajisjen t
+ panoya kopyaland
+ pasiekiamumas
+ paslaug
+ paslaugas
+ pause
+ pauz
+ payla
+ po aktualiz
+ po povolen
+ pobra
+ poss
+ pot
+ pozastaveno
+ pritje t
+ probl
+ probleme privind serviciile Google Play. 
+ problemes amb Serveis de Google Play. Torna-ho a provar.
+ przez Google
+ puslap
+ richiesta una nuova versione di Google Play Services. L'aggiornamento automatico verr
+ rrjetit
+ sa automaticky v
+ sa do 
+ sa moment
+ sao ch
+ se nezda
+ se non aggiorni Google Play Services.
+ se non attivi Google Play Services.
+ se o teu dispositivo non ten instalados os servizos de Google Play.
+ sen os servizos de Google Play, que non son compatibles co teu dispositivo.
+ sen os servizos de Google Play, que se est
+ sendo atualizado no momento.
+ sense Serveis de Google Play, que s'est
+ senza Google Play Services, attualmente in fase di aggiornamento.
+ senza Google Play Services, non presente sul tuo dispositivo.
+ senza Google Play Services, non supportati dal tuo dispositivo.
+ serviciile Google Play, care lipsesc de pe dispozitivul dvs.
+ serviciile Google Play, care momentan se actualizeaz
+ serviciile Google Play, care nu sunt acceptate de dispozitivul dvs.
+ shfletues
+ shpejti.
+ sht
+ si los Servicios de Google Play no est
+ si no actives Serveis de Google Play.
+ si no actualitzes Serveis de Google Play.
+ si Serveis de Google Play no est
+ sin los servicios de Google Play, que no son compatibles con tu dispositivo.
+ sin los servicios de Google Play. La plataforma se est
+ slu
+ sor
+ spusti
+ sta
+ tamamland
+ telefon
+ telefonat
+ telefonen
+ thi
+ tiks instal
+ tjera
+ Transfer
+ trong tr
+ un apel primit
+ uppf
+ ure
+ uudelleen.
+ v telef
+ vafra
+ vandr
+ vaqtinchalik xotiraga nusxalandi.
+ vazhdim
+ version i ri i sh
+ versiune a serviciilor Google Play. Se vor actualiza automat 
+ verze se brzy sama nainstaluje.
+ verze slu
+ verzia slu
+ Veza je kopirana u me
+ vyh
+ vyhled
+ Wi-Fi
+ Wi-Fi 
+ Wi-Fi-
+ Wi-Fi-netv
+ Wi-FI-tilkobling
+ Wi-Fi.
+ WiFi
+ wifi
+ WiFi 
+ WLAN 
+ wszystko
+ yenil
+ yolunu g
+ zapytanie
+ zvana filtr
+!!"%1$s" in Zwischenablage kopiert.
+!!abc_action_bar_elevation_material
+!!abc_action_bar_stacked_max_height
+!!abc_activity_chooser_view_see_all
+!!abc_cab_background_top_mtrl_alpha
+!!abc_dialog_corner_radius_material
+!!abc_dialog_title_divider_material
+!!abc_disabled_alpha_material_light
+!!abc_hint_foreground_material_dark
+!!abc_input_method_navigation_guard
+!!abc_popup_menu_header_item_layout
+!!abc_searchview_description_search
+!!abc_searchview_description_submit
+!!abc_secondary_text_material_light
+!!Actualitza Serveis de Google Play
+!!Auf WLAN-Verbindung wird gewartet
+!!background_floating_material_dark
+!!Base.Theme.AppCompat.Dialog.Alert
+!!Base.Theme.AppCompat.Light.Dialog
+!!Base.ThemeOverlay.AppCompat.Light
+!!Base.V26.Widget.AppCompat.Toolbar
+!!Base.V7.Widget.AppCompat.EditText
+!!Base.Widget.AppCompat.ImageButton
+!!Base.Widget.AppCompat.PopupWindow
+!!Base.Widget.AppCompat.ProgressBar
+!!browser_actions_context_menu_page
+!!Buyekeza amasevisi we-Google Play
+!!Dapatkan perkhidmatan Google Play
+!!Descargar servizos de Google Play
+!!Enlace copiado en el portapapeles
+!!Error de Servicios de Google Play
+!!fastScrollHorizontalThumbDrawable
+!!fastScrollHorizontalTrackDrawable
+!!Google Play Palveluiden saatavuus
+!!Google Play services availability
+!!Google Play teenuste saadavalolek
+!!Google Play-Dienste aktualisieren
+!!Habilita Servicios de Google Play
+!!hint_pressed_alpha_material_light
+!!ime_secondary_split_test_activity
+!!Iphutha lamasevisi we-Google Play
+!!listChoiceIndicatorSingleAnimated
+!!notification_content_margin_start
+!!notification_template_icon_low_bg
+!!notification_template_lines_media
+!!notify_panel_notification_icon_bg
+!!Platform.Widget.AppCompat.Spinner
+!!Preference.SwitchPreferenceCompat
+!!preference_dropdown_padding_start
+!!preference_seekbar_value_minWidth
+!!res/color/abc_search_url_text.xml
+!!summary_collapsed_preference_list
+!!switch_thumb_normal_material_dark
+!!tag_accessibility_clickable_spans
+!!tag_on_receive_content_mime_types
+!!TextAppearance.AppCompat.Display1
+!!TextAppearance.AppCompat.Display2
+!!TextAppearance.AppCompat.Display3
+!!TextAppearance.AppCompat.Display4
+!!TextAppearance.AppCompat.Headline
+!!Theme.AppCompat.Light.NoActionBar
+!!Widget.AppCompat.ActionBar.TabBar
+!!Widget.AppCompat.Light.SearchView
+!!Widget.AppCompat.SeekBar.Discrete
+!!Widget.AppCompat.Spinner.DropDown
+!"Atualizar servi
+!"Copiouse a ligaz
+!"Lataukse odottavat verkkoyhteytt
+!"Lien copi
+!"Linkul a fost copiat 
+!"Merr sh
+!"Nedlastinger venter p
+!"Pobierane pliki oczekuj
+!"Prenosi 
+!"Transfer
+!#Desc
+!#Downloads venter p
+!$Nedladdningar v
+!$Odkaz bol skop
+!$Ota Google Play Palvelut k
+!%Google Play-szolg
+!&A let
+!&Bendrinti naudojant program
+!9Google 
+!A filtrar uma chamada recebida
+!CGoogle Play 
+!GGoogle Play 
+!Google Play 
+!Google Play xidm
+!IGoogle Play 
+!KGoogle Play 
+!Shkarkimet n
+!Shkarkimet u vendos
+!Skopiowano 
+!Tengill afrita
+" copied to clipboard.
+""abc_alert_dialog_button_bar_height
+""abc_button_inset_vertical_material
+""abc_dropdownitem_text_padding_left
+""abc_hint_foreground_material_light
+""abc_ic_arrow_drop_right_black_24dp
+""abc_shareactionprovider_share_with
+""abc_text_size_menu_header_material
+""abc_textfield_activated_mtrl_alpha
+""Actualiza Servicios de Google Play
+""background_floating_material_light
+""Base.TextAppearance.AppCompat.Menu
+""Base.ThemeOverlay.AppCompat.Dialog
+""Base.Widget.AppCompat.ActionButton
+""Base.Widget.AppCompat.Button.Small
+""Base.Widget.AppCompat.ListMenuView
+""btn_radio_off_to_on_mtrl_animation
+""btn_radio_on_to_off_mtrl_animation
+""common_google_signin_btn_icon_dark
+""common_google_signin_btn_text_dark
+""Descargar Servicios de Google Play
+""fallback_menu_item_open_in_browser
+""Google Play xizmatlarini yangilash
+""Habilitar servicios de Google Play
+""Installer les services Google Play
+""notification_main_column_container
+""notification_template_media_custom
+""preference_widget_seekbar_material
+""primary_text_default_material_dark
+""res/color-v23/abc_tint_default.xml
+""res/color-v23/abc_tint_spinner.xml
+""select_dialog_multichoice_material
+""selectableItemBackgroundBorderless
+""switch_thumb_normal_material_light
+""TextAppearance.Compat.Notification
+""textAppearanceSearchResultSubtitle
+""Theme.AppCompat.Light.Dialog.Alert
+""visible_removing_fragment_view_tag
+""Widget.AppCompat.ActionBar.TabText
+""Widget.AppCompat.ActionBar.TabView
+""Widget.AppCompat.Button.Borderless
+""Widget.AppCompat.DrawerArrowToggle
+""Widget.AppCompat.ListView.DropDown
+"#Actualiza
+"#Allalaadimised on WiFi-v
+"#Comparte contido coa aplicaci
+"#Google Play teenuste v
+"#Installer les services Google
+"#Lataukset odottavat Wi-Fi-yhteytt
+"#Transfer
+"$Google
+"$Google Play xizmatlarini o
+"%1$s" 
+"%1$s" bufer
+"%1$s" copied to clipboard.
+"%1$s" disalin ke papan klip.
+"%1$s" kukopishelwe kuklibhodi.
+"%1$s" panoya kopyaland
+"%1$s"copiato negli appunti.
+"%s 
+"&Google Play xidm
+"7Google Play 
+":"%1$s" 
+"Desc
+"Google Play 
+"HGoogle Play 
+"JGoogle Play 
+"Let
+"Nuoroda nukopijuota 
+"Odstra
+"Prisijungti naudojant 
+"T"%1$s" 
+##"%1$s" s'ha copiat al porta-retalls
+##abc_action_mode_close_item_material
+##abc_activity_chooser_view_list_item
+##abc_dropdownitem_text_padding_right
+##abc_edit_text_inset_bottom_material
+##abc_ic_commit_search_api_mtrl_alpha
+##abc_list_item_height_large_material
+##abc_list_item_height_small_material
+##abc_scrubber_control_off_mtrl_alpha
+##accessibility_action_clickable_span
+##Actualizar servicios de Google Play
+##androidx_core_ripple_material_light
+##Base.Animation.AppCompat.DropDownUp
+##Base.TextAppearance.AppCompat.Body1
+##Base.TextAppearance.AppCompat.Body2
+##Base.TextAppearance.AppCompat.Large
+##Base.TextAppearance.AppCompat.Small
+##Base.TextAppearance.AppCompat.Title
+##Base.Widget.AppCompat.ListView.Menu
+##common_google_signin_btn_icon_light
+##common_google_signin_btn_text_light
+##Downloads aguardando uma rede Wi-Fi
+##listChoiceIndicatorMultipleAnimated
+##notification_oversize_large_icon_bg
+##notification_right_side_padding_top
+##preference_seekbar_padding_vertical
+##PreferenceThemeOverlay.v14.Material
+##primary_text_default_material_light
+##primary_text_disabled_material_dark
+##res/color-v23/abc_tint_edittext.xml
+##select_dialog_singlechoice_material
+##special_effects_controller_view_tag
+##status_bar_notification_info_maxnum
+##switch_thumb_disabled_material_dark
+##Theme.AppCompat.Light.DarkActionBar
+##ThemeOverlay.AppCompat.Dialog.Alert
+##tooltip_precise_anchor_extra_offset
+##Widget.AppCompat.Light.ActionButton
+##Widget.AppCompat.PopupMenu.Overflow
+##Widget.AppCompat.Spinner.Underlined
+#$"%1$s" copi
+#$S'est
+#$Se copi
+#%Google Play xidm
+#%s 
+#%Se copi
+#&Google
+#(Desc
+#+Endirm
+#:"%1$s": 
+#=Google Play Services-
+#Gaukite 
+#KGoogle Play 
+#MGoogle Play
+#MGoogle Play 
+#OGoogle Play 
+#Q"%1$s"
+#Q"%1$s" 
+$$abc_action_bar_stacked_tab_max_width
+$$abc_action_button_min_width_material
+$$abc_action_menu_overflow_description
+$$abc_alert_dialog_button_bar_material
+$$abc_button_inset_horizontal_material
+$$abc_button_padding_vertical_material
+$$abc_dialog_list_padding_top_no_title
+$$abc_list_selector_disabled_holo_dark
+$$abc_search_dropdown_item_icons_2line
+$$abc_text_size_title_material_toolbar
+$$Auf Netzwerkverbindung wird gewartet
+$$Base.TextAppearance.AppCompat.Button
+$$Base.TextAppearance.AppCompat.Medium
+$$Base.Theme.AppCompat.Dialog.MinWidth
+$$Base.Theme.AppCompat.DialogWhenLarge
+$$Base.V7.Theme.AppCompat.Light.Dialog
+$$Base.Widget.AppCompat.Button.Colored
+$$Download menunggu konektivitas Wi-Fi
+$$Error sa Mga Serbisyo ng Google Play
+$$expandActivityOverflowButtonDrawable
+$$Ingia katika akaunti ukitumia Google
+$$item_touch_helper_previous_elevation
+$$Linken er kopiert til utklippstavlen
+$$notification_main_column_padding_top
+$$Platform.ThemeOverlay.AppCompat.Dark
+$$Preference.DialogPreference.Material
+$$Preference.PreferenceScreen.Material
+$$Preference.SwitchPreference.Material
+$$primary_text_disabled_material_light
+$$secondary_text_default_material_dark
+$$support_simple_spinner_dropdown_item
+$$switch_thumb_disabled_material_light
+$$tag_window_insets_animation_callback
+$$Theme.AppCompat.DayNight.NoActionBar
+$$Upatikanaji wa huduma za Google Play
+$$view_tree_saved_state_registry_owner
+$$Widget.AppCompat.ActivityChooserView
+$$Widget.AppCompat.RatingBar.Indicator
+$$Widget.Compat.NotificationActionText
+$$Yuklanmalar Wi-Fi aloqasini kutmoqda
+$%Dispo
+$%Google Play hizmetlerini g
+$%Norint t
+$&Erreur li
+$(Atnaujinkite 
+$,Ph
+$:Google Play 
+$?"%1$s" 
+$Endirm
+$N%1$s
+$PGoogle Play 
+$Prov
+$RGoogle Play 
+$T"%1$s" 
+$X"%1$s" 
+$XWiFi 
+%%abc_action_bar_content_inset_material
+%%abc_action_bar_content_inset_with_nav
+%%abc_action_button_min_height_material
+%%abc_list_selector_disabled_holo_light
+%%abc_screen_simple_overlay_action_mode
+%%abc_text_select_handle_left_mtrl_dark
+%%Actualizar os servizos de Google Play
+%%Base.TextAppearance.AppCompat.Caption
+%%Base.TextAppearance.AppCompat.Inverse
+%%Base.TextAppearance.AppCompat.Subhead
+%%Base.TextAppearance.AppCompat.Tooltip
+%%Base.Theme.AppCompat.Dialog.FixedSize
+%%Base.ThemeOverlay.AppCompat.ActionBar
+%%Base.V21.Theme.AppCompat.Light.Dialog
+%%Base.V7.ThemeOverlay.AppCompat.Dialog
+%%Base.Widget.AppCompat.ActionBar.Solid
+%%Base.Widget.AppCompat.Light.ActionBar
+%%Base.Widget.AppCompat.Light.PopupMenu
+%%Base.Widget.AppCompat.ListPopupWindow
+%%Base.Widget.AppCompat.RatingBar.Small
+%%call_notification_answer_video_action
+%%compat_button_inset_vertical_material
+%%dim_foreground_disabled_material_dark
+%%Google Play Tjenester-tilgjengelighet
+%%Google Play xizmatlarining mavjudligi
+%%Hitilafu kwenye huduma za Google Play
+%%Kemaskinikan perkhidmatan Google Play
+%%Ketersediaan perkhidmatan Google Play
+%%Kunin ang mga serbisyo ng Google Play
+%%Les baixades estan esperant una xarxa
+%%Link je kopiran u privremenu memoriju
+%%Nika amandla amasevisi we-Google Play
+%%notification_small_icon_size_as_large
+%%Platform.ThemeOverlay.AppCompat.Light
+%%Preference.SeekBarPreference.Material
+%%preference_seekbar_padding_horizontal
+%%preferenceCategoryTitleTextAppearance
+%%res/color-v23/abc_tint_seek_thumb.xml
+%%s-
+%%secondary_text_default_material_light
+%%secondary_text_disabled_material_dark
+%%status_bar_notification_info_overflow
+%%Theme.AppCompat.DayNight.Dialog.Alert
+%%Theme.AppCompat.Light.Dialog.MinWidth
+%%Theme.AppCompat.Light.DialogWhenLarge
+%%ThemeOverlay.AppCompat.Dark.ActionBar
+%%Widget.AppCompat.AutoCompleteTextView
+%%Widget.AppCompat.DropDownItem.Spinner
+%%Widget.AppCompat.SearchView.ActionBar
+%%Widget.AppCompat.TextView.SpinnerItem
+%&Aktivizo sh
+%&Disponibilit
+%&Google Play-tjenesters tilg
+%&S'ha copiat l'enlla
+%'Gabim n
+%'Les baixades estan esperant una Wi
+%(Google
+%*Norint t
+%,Google Play xidm
+%1$s
+%1$s 
+%1$s %2$s
+%1$s Google 
+%1$s Google Play 
+%1$s Google Play services 
+%1$s s
+%1$s,
+%1$s, %2$s
+%1$s, Google Play 
+%1$s-
+%2$s
+%[Google 
+%Google Play 
+%s il
+%s ile payla
+%s orqali ulashish
+%SGoogle Play 
+%UGoogle Play 
+&%s 
+&&abc_action_bar_default_height_material
+&&abc_button_padding_horizontal_material
+&&abc_cascading_menus_min_smallest_width
+&&abc_text_select_handle_left_mtrl_light
+&&abc_text_select_handle_right_mtrl_dark
+&&Base.TextAppearance.AppCompat.Display1
+&&Base.TextAppearance.AppCompat.Display2
+&&Base.TextAppearance.AppCompat.Display3
+&&Base.TextAppearance.AppCompat.Display4
+&&Base.TextAppearance.AppCompat.Headline
+&&Base.V21.ThemeOverlay.AppCompat.Dialog
+&&Base.Widget.AppCompat.ActionBar.TabBar
+&&Base.Widget.AppCompat.SeekBar.Discrete
+&&Beskikbaarheid van Google Play Dienste
+&&browser_actions_context_menu_max_width
+&&common_google_signin_btn_icon_disabled
+&&common_google_signin_btn_text_disabled
+&&dim_foreground_disabled_material_light
+&&exo_download_notification_channel_name
+&&Isixhumanisi sikopishelwe ku-clipboard
+&&Linket er kopieret til udklipsholderen
+&&notification_template_big_media_custom
+&&notification_template_big_media_narrow
+&&notification_template_part_chronometer
+&&Preference.CheckBoxPreference.Material
+&&RtlOverlay.DialogWindowTitle.AppCompat
+&&secondary_text_disabled_material_light
+&&TextAppearance.AppCompat.Large.Inverse
+&&TextAppearance.AppCompat.Small.Inverse
+&&TextAppearance.AppCompat.Title.Inverse
+&&TextAppearance.AppCompat.Widget.Button
+&&TextAppearance.AppCompat.Widget.Switch
+&&Theme.AppCompat.DayNight.DarkActionBar
+&&Widget.AppCompat.ActionButton.Overflow
+&&Widget.AppCompat.ButtonBar.AlertDialog
+&&Widget.AppCompat.CompoundButton.Switch
+&&Widget.AppCompat.Light.ActionBar.Solid
+&&Widget.AppCompat.Light.ListPopupWindow
+&'As descargas est
+&'Disponibilit
+&'Google Play hizmetlerini etkinle
+&'Mettre 
+&'Verf
+&(Disponibilit
+&(Mettre 
+&(Prenosi 
+&T%1$s
+&XGoogle Play 
+'%1$s' copied to clipboard.
+'''%1$s' is gekopieerd naar het klembord.
+''abc_action_bar_item_background_material
+''abc_edit_text_inset_horizontal_material
+''abc_text_select_handle_middle_mtrl_dark
+''abc_text_select_handle_right_mtrl_light
+''abc_text_size_subtitle_material_toolbar
+''abc_textfield_search_default_mtrl_alpha
+''AIzaSyBpf-FlsqU3Mi2EZJUpIATety6fWZ6UsrM
+''Availability ng serbisyo ng Google Play
+''Base.Theme.AppCompat.Light.Dialog.Alert
+''Base.Widget.AppCompat.ActionBar.TabText
+''Base.Widget.AppCompat.ActionBar.TabView
+''Base.Widget.AppCompat.Button.Borderless
+''Base.Widget.AppCompat.DrawerArrowToggle
+''Base.Widget.AppCompat.ListView.DropDown
+''bright_foreground_inverse_material_dark
+''common_google_play_services_enable_text
+''common_google_play_services_update_text
+''compat_button_inset_horizontal_material
+''compat_button_padding_vertical_material
+''Disponibilidad Servicios de Google Play
+''Disponibilidade do Google Play Services
+''Download menunggu konektivitas jaringan
+''fcm_fallback_notification_channel_label
+''item_touch_helper_swipe_escape_velocity
+''Naghihintay ng network ang pag-download
+''res/color-v23/abc_tint_switch_track.xml
+''TextAppearance.AppCompat.Medium.Inverse
+''TextAppearance.Compat.Notification.Info
+''TextAppearance.Compat.Notification.Time
+''Widget.AppCompat.ActionButton.CloseMode
+''Widget.AppCompat.Light.ActionBar.TabBar
+''Widget.AppCompat.ProgressBar.Horizontal
+'(Disponibilidade Servi
+'(Nedlastinger venter p
+')Downloads venter p
+')Preuzimanja 
+'*A Google Play-szolg
+'+A Google Play-szolg
+'+Megoszt
+',Google Play-szolg
+'-Google Play xidm
+'["%1$s" 
+'a"%1$s" 
+'IGoogle Play 
+'IGoogle Play services-
+'KGoogle Play Services 
+(("%1$s" se ha copiado en el portapapeles.
+((abc_btn_colored_borderless_text_material
+((abc_scrubber_control_to_pressed_mtrl_000
+((abc_scrubber_control_to_pressed_mtrl_005
+((abc_select_dialog_padding_start_material
+((abc_text_select_handle_middle_mtrl_light
+((Applicazione filtro a chiamata in arrivo
+((Base.Theme.AppCompat.Light.DarkActionBar
+((Base.ThemeOverlay.AppCompat.Dialog.Alert
+((Base.Widget.AppCompat.PopupMenu.Overflow
+((Base.Widget.AppCompat.Spinner.Underlined
+((Beschikbaarheid van Google Play-services
+((bright_foreground_disabled_material_dark
+((bright_foreground_inverse_material_light
+((browser_actions_context_menu_min_padding
+((btn_radio_to_on_mtrl_dot_group_animation
+((common_google_play_services_enable_title
+((common_google_play_services_install_text
+((common_google_play_services_update_title
+((compat_notification_large_icon_max_width
+((Deskargak wifira konektatzeko zain daude
+((Disponibilitat de serveis de Google Play
+((Disponibilitatea serviciilor Google Play
+((I-enable ang mga serbisyo ng Google Play
+((I-update ang mga serbisyo ng Google Play
+((Imenakili kiungo kwenye ubao wa kunakili
+((Naghihintay ng WiFi ang mga pag-download
+((res/color-v23/abc_tint_btn_checkable.xml
+((res/color/switch_thumb_material_dark.xml
+((Skupna raba z drugimi prek aplikacije %s
+((TextAppearance.AppCompat.Subhead.Inverse
+((TextAppearance.Compat.Notification.Line2
+((TextAppearance.Compat.Notification.Media
+((TextAppearance.Compat.Notification.Title
+((Theme.AppCompat.DayNight.Dialog.MinWidth
+((Theme.AppCompat.DayNight.DialogWhenLarge
+((Widget.AppCompat.CompoundButton.CheckBox
+((Widget.AppCompat.Light.ActionBar.TabText
+((Widget.AppCompat.Light.ActionBar.TabView
+((Widget.AppCompat.Light.ListView.DropDown
+()Downloads aguardando uma conex
+()Lejupiel
+(*Lejupiel
+(+Tillg
+(,Google Play-szolg
+(/Disp. de los Servicios de Google
+(^Google Play 
+(CGoogle Play 
+(d"%1$s" 
+(Google Play 
+) Google Play 
+))"%1$s" blev kopieret til udklipsholderen.
+))abc_dialog_list_padding_bottom_no_buttons
+))abc_list_item_padding_horizontal_material
+))abc_spinner_textfield_background_material
+))abc_textfield_search_activated_mtrl_alpha
+))Base.Widget.AppCompat.ActivityChooserView
+))Base.Widget.AppCompat.RatingBar.Indicator
+))bright_foreground_disabled_material_light
+))btn_radio_to_off_mtrl_dot_group_animation
+))btn_radio_to_on_mtrl_ring_outer_animation
+))common_google_play_services_enable_button
+))common_google_play_services_install_title
+))common_google_play_services_unknown_issue
+))common_google_play_services_update_button
+))common_google_play_services_updating_text
+))common_google_signin_btn_icon_dark_normal
+))common_google_signin_btn_text_dark_normal
+))compat_button_padding_horizontal_material
+))compat_notification_large_icon_max_height
+))Google Play Services-en erabilgarritasuna
+))res/color/switch_thumb_material_light.xml
+))RtlOverlay.Widget.AppCompat.PopupMenuItem
+))RtlUnderlay.Widget.AppCompat.ActionButton
+))ThemeOverlay.AppCompat.DayNight.ActionBar
+))Ukungatholakali kwamasevisi e-Google Play
+))Widget.AppCompat.Light.ActionMode.Inverse
+))Widget.AppCompat.Light.PopupMenu.Overflow
+))Widget.Compat.NotificationActionContainer
+))Yuklanmalar internetga ulanishni kutmoqda
+)+"%1$s" u kopjua n
+)+Lidhja u kopjua n
+)+Link copiado para a 
+)+Sa
+)-Suppression des t
+)/Preference 
+)1Suvestin
+)aGoogle Play 
+)Google Play
+)Google Play 
+*%s 
+**abc_activitychooserview_choose_application
+**abc_seekbar_track_progress_height_material
+**Base.DialogWindowTitleBackground.AppCompat
+**Base.TextAppearance.AppCompat.SearchResult
+**Base.Theme.AppCompat.Light.Dialog.MinWidth
+**Base.Theme.AppCompat.Light.DialogWhenLarge
+**Base.ThemeOverlay.AppCompat.Dark.ActionBar
+**Base.Widget.AppCompat.AutoCompleteTextView
+**Base.Widget.AppCompat.DropDownItem.Spinner
+**Base.Widget.AppCompat.SearchView.ActionBar
+**Base.Widget.AppCompat.TextView.SpinnerItem
+**btn_radio_to_off_mtrl_ring_outer_animation
+**common_google_play_services_install_button
+**common_google_signin_btn_icon_dark_focused
+**common_google_signin_btn_icon_light_normal
+**common_google_signin_btn_text_dark_default
+**common_google_signin_btn_text_dark_focused
+**common_google_signin_btn_text_dark_pressed
+**common_google_signin_btn_text_light_normal
+**config_materialPreferenceIconSpaceReserved
+**Fehler bei Zugriff auf Google Play-Dienste
+**notification_small_icon_background_padding
+**Preference.SwitchPreferenceCompat.Material
+**view_tree_on_back_pressed_dispatcher_owner
+**Widget.AppCompat.Button.Borderless.Colored
+**Widget.AppCompat.Light.ActivityChooserView
+**Widget.AppCompat.Toolbar.Button.Navigation
+*,Link copiado para a 
+*.Polo
+*Google Play 
+*h"%1$s" 
+*j"%1$s" 
+*l"%1$s" 
++%s 
+++"%1$s" imenakiliwa kwenye ubao wa kunakili.
+++abc_action_bar_default_padding_end_material
+++abc_action_bar_subtitle_top_margin_material
+++abc_primary_text_disable_only_material_dark
+++baruti-tabernacle-1f043.firebasestorage.app
+++Base.TextAppearance.AppCompat.Large.Inverse
+++Base.TextAppearance.AppCompat.Small.Inverse
+++Base.TextAppearance.AppCompat.Title.Inverse
+++Base.TextAppearance.AppCompat.Widget.Button
+++Base.TextAppearance.AppCompat.Widget.Switch
+++Base.Theme.AppCompat.Light.Dialog.FixedSize
+++Base.Widget.AppCompat.ActionButton.Overflow
+++Base.Widget.AppCompat.ButtonBar.AlertDialog
+++Base.Widget.AppCompat.CompoundButton.Switch
+++Base.Widget.AppCompat.Light.ActionBar.Solid
+++btn_checkbox_to_checked_icon_null_animation
+++common_google_signin_btn_icon_light_focused
+++common_google_signin_btn_text_dark_disabled
+++common_google_signin_btn_text_light_default
+++common_google_signin_btn_text_light_focused
+++common_google_signin_btn_text_light_pressed
+++item_touch_helper_max_drag_scroll_per_frame
+++item_touch_helper_swipe_escape_max_velocity
+++res/color/common_google_signin_btn_tint.xml
+++RtlOverlay.Widget.AppCompat.Search.DropDown
+++TextAppearance.AppCompat.SearchResult.Title
+++Widget.AppCompat.CompoundButton.RadioButton
+++Widget.AppCompat.Light.AutoCompleteTextView
+++Widget.AppCompat.Light.DropDownItem.Spinner
+++Widget.AppCompat.Spinner.DropDown.ActionBar
++.Disponueshm
++999
++Google 
++Google Play 
++SGoogle Play 
++WiFi'
++YGoogle Play 
+, %1$s 
+, Google Play 
+, je
+, kuri
+, kurios 
+,,abc_action_bar_overflow_padding_end_material
+,,abc_primary_text_disable_only_material_light
+,,abc_seekbar_track_background_height_material
+,,androidx.appcompat.app.AppCompatViewInflater
+,,Base.TextAppearance.AppCompat.Medium.Inverse
+,,Base.Widget.AppCompat.ActionButton.CloseMode
+,,Base.Widget.AppCompat.Light.ActionBar.TabBar
+,,Base.Widget.AppCompat.ProgressBar.Horizontal
+,,common_google_play_services_unsupported_text
+,,common_google_play_services_wear_update_text
+,,common_google_signin_btn_text_light_disabled
+,,Havoladan vaqtinchalik xotiraga nusxa olindi
+,,res/color/abc_primary_text_material_dark.xml
+,,RtlOverlay.Widget.AppCompat.DialogTitle.Icon
+,,TextAppearance.AppCompat.Widget.DropDownItem
+,,Widget.AppCompat.Light.ActionButton.Overflow
+,."%1$s" copiado para a 
+,.Google Play hizmetlerinin kullan
+,Google 
+,Google Play
+,KGoogle Play 
+--1:514676904778:android:bac0b3f5eadcd8a02f67b3
+--abc_action_bar_default_padding_start_material
+--abc_action_bar_icon_vertical_padding_material
+--abc_action_button_min_width_overflow_material
+--Base.TextAppearance.AppCompat.Subhead.Inverse
+--Base.V7.Widget.AppCompat.AutoCompleteTextView
+--Base.Widget.AppCompat.CompoundButton.CheckBox
+--Base.Widget.AppCompat.Light.ActionBar.TabText
+--Base.Widget.AppCompat.Light.ActionBar.TabView
+--btn_checkbox_to_unchecked_icon_null_animation
+--btn_radio_to_on_mtrl_animation_interpolator_0
+--notification_template_big_media_narrow_custom
+--res/color/abc_primary_text_material_light.xml
+--TextAppearance.Compat.Notification.Info.Media
+--TextAppearance.Compat.Notification.Time.Media
+--TextAppearance.Widget.AppCompat.Toolbar.Title
+--Widget.AppCompat.Button.ButtonBar.AlertDialog
+--Widget.AppCompat.Light.ActionButton.CloseMode
+-mGoogle Play 
+-u"%1$s" 
+-Wi-Fi
+. Bandykite dar kart
+. Jos netrukus bus atnaujintos.
+..abc_action_bar_overflow_padding_start_material
+..abc_action_bar_subtitle_bottom_margin_material
+..abc_shareactionprovider_share_with_application
+..Base.Widget.AppCompat.DrawerArrowToggle.Common
+..Base.Widget.AppCompat.Light.PopupMenu.Overflow
+..btn_radio_to_off_mtrl_animation_interpolator_0
+..btn_radio_to_on_mtrl_ring_outer_path_animation
+..Preference.DialogPreference.EditTextPreference
+..res/color-v23/abc_color_highlight_material.xml
+..res/color/abc_secondary_text_material_dark.xml
+..RtlOverlay.Widget.AppCompat.PopupMenuItem.Text
+..RtlOverlay.Widget.AppCompat.SearchView.MagIcon
+..TextAppearance.AppCompat.SearchResult.Subtitle
+..TextAppearance.AppCompat.Widget.ActionBar.Menu
+..TextAppearance.AppCompat.Widget.Button.Colored
+..TextAppearance.AppCompat.Widget.Button.Inverse
+..TextAppearance.Compat.Notification.Line2.Media
+..TextAppearance.Compat.Notification.Title.Media
+..Widget.AppCompat.Light.ActionBar.Solid.Inverse
+.Google 
+.Google Play 
+.Google Play Services-
+.MGoogle Play-
+.tGoogle Play
+//Base.Widget.AppCompat.Button.Borderless.Colored
+//Base.Widget.AppCompat.Toolbar.Button.Navigation
+//btn_radio_to_off_mtrl_ring_outer_path_animation
+//common_google_play_services_notification_ticker
+//res/color-v23/abc_btn_colored_text_material.xml
+//res/color/abc_hint_foreground_material_dark.xml
+//res/color/abc_secondary_text_material_light.xml
+//RtlOverlay.Widget.AppCompat.ActionBar.TitleItem
+//RtlOverlay.Widget.AppCompat.PopupMenuItem.Title
+//TextAppearance.AppCompat.Widget.ActionBar.Title
+//TextAppearance.AppCompat.Widget.PopupMenu.Large
+//TextAppearance.AppCompat.Widget.PopupMenu.Small
+//Widget.AppCompat.Light.ActionBar.TabBar.Inverse
+/3Rezime 
+/Google 
+/Google Play 
+00abc_background_cache_hint_selector_material_dark
+00Base.TextAppearance.AppCompat.SearchResult.Title
+00Base.Widget.AppCompat.CompoundButton.RadioButton
+00btn_checkbox_checked_to_unchecked_mtrl_animation
+00btn_checkbox_unchecked_to_checked_mtrl_animation
+00res/color/abc_hint_foreground_material_light.xml
+00res/color/common_google_signin_btn_text_dark.xml
+00RtlOverlay.Widget.AppCompat.Search.DropDown.Text
+00TextAppearance.AppCompat.Widget.ActionMode.Title
+00TextAppearance.AppCompat.Widget.PopupMenu.Header
+00TextAppearance.Widget.AppCompat.Toolbar.Subtitle
+00Widget.AppCompat.Light.ActionBar.TabText.Inverse
+00Widget.AppCompat.Light.ActionBar.TabView.Inverse
+033S
+033s
+0fff
+0fGoogle Play 
+0gfF
+11abc_background_cache_hint_selector_material_light
+11abc_list_selector_background_transition_holo_dark
+11Base.TextAppearance.AppCompat.Widget.DropDownItem
+11res/color/common_google_signin_btn_text_light.xml
+11RtlOverlay.Widget.AppCompat.Search.DropDown.Icon1
+11RtlOverlay.Widget.AppCompat.Search.DropDown.Icon2
+11RtlOverlay.Widget.AppCompat.Search.DropDown.Query
+11TextAppearance.AppCompat.Light.SearchResult.Title
+11TextAppearance.Widget.AppCompat.ExpandedMenu.Item
+11Widget.AppCompat.Light.Spinner.DropDown.ActionBar
+1Google Play 
+1Google Play Services-
+1u%1$s
+2"%1$s"-
+2%1$s
+2%s 
+22abc_list_selector_background_transition_holo_light
+22Base.TextAppearance.Widget.AppCompat.Toolbar.Title
+22Base.Widget.AppCompat.Button.ButtonBar.AlertDialog
+22btn_checkbox_checked_mtrl_animation_interpolator_0
+22btn_checkbox_checked_mtrl_animation_interpolator_1
+22btn_checkbox_to_checked_box_inner_merged_animation
+22btn_checkbox_to_checked_box_outer_merged_animation
+22Deskargak sare mugikorrera konektatzeko zain daude
+22RtlOverlay.Widget.AppCompat.PopupMenuItem.Shortcut
+22RtlUnderlay.Widget.AppCompat.ActionButton.Overflow
+22TextAppearance.AppCompat.Widget.ActionBar.Subtitle
+2d%1$s
+2Google Play 
+2t%1$s 
+333?
+33androidx_core_secondary_text_default_material_light
+33Base.TextAppearance.AppCompat.SearchResult.Subtitle
+33Base.TextAppearance.AppCompat.Widget.ActionBar.Menu
+33Base.TextAppearance.AppCompat.Widget.Button.Colored
+33Base.TextAppearance.AppCompat.Widget.Button.Inverse
+33TextAppearance.AppCompat.Widget.ActionMode.Subtitle
+3Google 
+3Google Play 
+3w%1$s 
+44Base.TextAppearance.AppCompat.Widget.ActionBar.Title
+44Base.TextAppearance.AppCompat.Widget.PopupMenu.Large
+44Base.TextAppearance.AppCompat.Widget.PopupMenu.Small
+44btn_checkbox_to_unchecked_box_inner_merged_animation
+44btn_checkbox_unchecked_mtrl_animation_interpolator_0
+44btn_checkbox_unchecked_mtrl_animation_interpolator_1
+44common_google_signin_btn_icon_dark_normal_background
+44common_google_signin_btn_text_dark_normal_background
+44notification_material_background_media_default_color
+44TextAppearance.AppCompat.Light.SearchResult.Subtitle
+44TextAppearance.AppCompat.Widget.TextView.SpinnerItem
+45%1$s s
+46%1$s ei toimi, ellet p
+4;%1$s Google Play xidm
+4Google Play 
+5'%1$s'
+514676904778
+55Base.TextAppearance.AppCompat.Widget.ActionMode.Title
+55Base.TextAppearance.AppCompat.Widget.PopupMenu.Header
+55Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle
+55Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse
+55btn_checkbox_to_unchecked_check_path_merged_animation
+55common_google_play_services_notification_channel_name
+55common_google_signin_btn_icon_light_normal_background
+55common_google_signin_btn_text_light_normal_background
+55TextAppearance.AppCompat.Light.Widget.PopupMenu.Large
+55TextAppearance.AppCompat.Light.Widget.PopupMenu.Small
+5c%1$s 
+5Google Play 
+5VGoogle Play 
+5WiFi
+6%s-
+66%1$s won't run unless you update Google Play services.
+66Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item
+66Google Play xizmatlari yoqilmaguncha, %1$s ishlamaydi.
+66RtlOverlay.Widget.AppCompat.PopupMenuItem.SubmenuArrow
+6Google
+6x%1$s 
+7%s 
+77%1$s werkt niet, tenzij je Google Play-services aanzet.
+77%1$s won't work unless you enable Google Play services.
+77Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle
+77Preference.DialogPreference.EditTextPreference.Material
+77RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup
+77TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse
+78%1$s non funzioner
+7Google 
+7Google Play 
+7}Google 
+88Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle
+88TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse
+89%1$s har problemer med Google Play-tjenester. Pr
+89%1$s no funcionar
+8Google Play 
+8|Google Play 
+99%1$s haitafanya kazi hadi usasishe huduma za Google Play.
+999+
+99Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem
+99res/color/abc_primary_text_disable_only_material_dark.xml
+99TextAppearance.AppCompat.Widget.Button.Borderless.Colored
+9:%1$s non funzioner
+9<%1$s ei toimi, ellet ota Google Play Palveluita k
+9\Google Play 
+9Google 
+9K%1$s 
+9{%1$s 
+: %s
+: Wi-Fi 
+:%s 
+::Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large
+::Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small
+::res/color-v23/abc_btn_colored_borderless_text_material.xml
+::res/color/abc_primary_text_disable_only_material_light.xml
+::TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse
+:<%1$s ka probleme me sh
+:>%1$s virkar ekki nema 
+:A%1$s 
+:Google
+:Google Play 
+:~%1$s 
+;;%1$s ima problema sa Google Play uslugama. Probajte ponovo.
+;;TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse
+;=%1$s har problemer med Google Play-tjenester. Pr
+;?Google Play hizmetlerini etkinle
+;^%1$s 
+;D%1$s Google Play xidm
+;Google Play 
+<<%1$s haitafanya kazi isipokuwa uwashe huduma za Google Play.
+<<%1$s sal nie werk nie tensy jy Google Play Dienste aktiveer.
+<<%1$s sal nie werk nie tensy jy Google Play Dienste opdateer.
+<<Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse
+<>%1$s ne
+<@Google Play hizmetlerini g
+<a%1$s 
+<A%1$s getur ekki keyrt nema 
+<bGoogle Play 
+<M%1$s s
+==%1$s inenkinga ngamasevisi e-Google Play. Sicela uzame futhi.
+==%1$s mengalami masalah dengan layanan Google Play. Coba lagi.
+=>%1$s fungerar inte om du inte aktiverar Google Play-tj
+=>%1$s no s'executar
+=?%1$s ne
+=@%1$s ima pote
+=d%1$s 
+=Google 
+=Google Play 
+>999
+>>Base.TextAppearance.AppCompat.Widget.Button.Borderless.Colored
+>>Google Play xizmatlari yangilanmaguncha, %1$s ishga tushmaydi.
+>>res/color/abc_background_cache_hint_selector_material_dark.xml
+>@%1$s nec
+>A%1$s nu va rula dec
+>Google 
+>Google Play 
+??Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse
+??res/color/abc_background_cache_hint_selector_material_light.xml
+?@%1$s ten problemas cos servizos de Google Play. T
+?A%1$s fungerer ikke med mindre du sl
+?A%1$s ne mo
+?d%1$s 
+@"%1$s" 
+@@Du skal aktivere Google Play-tjenester, for at %1$s kan fungere.
+@A%1$s kj
+@A%1$s t
+@BAplikacija %1$s ne
+@D%1$s nu va func
+@EAplik
+@EKe spu
+@Google Play 
+[[%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi hazitumiki kwenye kifaa chako.
+[[Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na kasalukuyang ina-update.
+[[Zur Nutzung von %1$s sind Google Play-Dienste erforderlich, die gerade aktualisiert werden.
+[]%1$s no s'executar
+[]%1$s no se ejecutar
+[a%1$s nuk do t
+[b%1$s nuk do t
+[b%1$s t
+\\%1$s sal nie werk sonder Google Play Dienste nie, wat nie deur jou toestel gesteun word nie.
+\\%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak didukung oleh perangkat Anda.
+\]%1$s kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden ge
+\`Este necesar
+\cNa spustenie aplik
+\jPrograma 
+\nCihaz
+]]%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi hazipatikani kwenye kifaa chako.
+]`L'application %1$s rencontre des probl
+]dGoogle Play hizmetlerinin yeni s
+^`%1$s no se ejecutar
+^`%1$s non se executar
+_fAplik
+_fLietotn
+`dO app %1$s n
+`e%1$s nuk do t
+`gA(z) %1$s alkalmaz
+a a consulta
+a eftir netkerfi
+a eftir WiFi
+a Google Play
+a Google Play.
+a Google Play. D
+a Google Play. Thi
+A let
+a naprava ne podpira.
+A remover as transfer
+a s uslugama Google Playa. Poku
+A transferir
+a truy v
+aa%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.
+AA%1$s sta riscontrando problemi con Google Play Services. Riprova.
+Aanzetten
+AB%1$s kan ikke k
+ab%1$s no es pot executar sense Serveis de Google Play, que no 
+ab%1$s no se ejecutar
+ab%1$s non se executar
+abc_ab_share_pack_mtrl_alpha
+abc_action_bar_embed_tabs
+abc_action_bar_home_description
+abc_action_bar_title_item
+abc_action_bar_up_container
+abc_action_bar_up_description
+abc_action_menu_item_layout
+abc_action_menu_layout
+abc_action_mode_bar
+abc_action_mode_done
+abc_activity_chooser_view
+abc_alert_dialog_button_dimen
+abc_alert_dialog_material
+abc_alert_dialog_title_material
+abc_allow_stacked_button_bar
+abc_btn_borderless_material
+abc_btn_check_material
+abc_btn_check_material_anim
+abc_btn_check_to_on_mtrl_000
+abc_btn_check_to_on_mtrl_015
+abc_btn_colored_material
+abc_btn_colored_text_material
+abc_btn_default_mtrl_shape
+abc_btn_radio_material
+abc_btn_radio_material_anim
+abc_btn_radio_to_on_mtrl_000
+abc_btn_radio_to_on_mtrl_015
+abc_btn_switch_to_on_mtrl_00001
+abc_btn_switch_to_on_mtrl_00012
+abc_cab_background_internal_bg
+abc_cab_background_top_material
+abc_capital_off
+abc_capital_on
+abc_cascading_menu_item_layout
+abc_color_highlight_material
+abc_config_activityDefaultDur
+abc_config_activityShortDur
+abc_config_prefDialogWidth
+abc_control_background_material
+abc_control_corner_material
+abc_control_inset_material
+abc_control_padding_material
+abc_dialog_fixed_height_major
+abc_dialog_fixed_height_minor
+abc_dialog_fixed_width_major
+abc_dialog_fixed_width_minor
+abc_dialog_material_background
+abc_dialog_min_width_major
+abc_dialog_min_width_minor
+abc_dialog_padding_material
+abc_dialog_padding_top_material
+abc_dialog_title_material
+abc_dropdownitem_icon_width
+abc_edit_text_material
+abc_expanded_menu_layout
+abc_fade_in
+abc_fade_out
+abc_floating_window_z
+abc_grow_fade_in_from_bottom
+abc_ic_ab_back_material
+abc_ic_clear_material
+abc_ic_go_search_api_material
+abc_ic_menu_copy_mtrl_am_alpha
+abc_ic_menu_cut_mtrl_alpha
+abc_ic_menu_overflow_material
+abc_ic_menu_paste_mtrl_am_alpha
+abc_ic_menu_share_mtrl_alpha
+abc_ic_search_api_material
+abc_ic_star_black_16dp
+abc_ic_star_black_36dp
+abc_ic_star_black_48dp
+abc_ic_star_half_black_16dp
+abc_ic_star_half_black_36dp
+abc_ic_star_half_black_48dp
+abc_item_background_holo_dark
+abc_item_background_holo_light
+abc_list_divider_material
+abc_list_divider_mtrl_alpha
+abc_list_focused_holo
+abc_list_item_height_material
+abc_list_longpressed_holo
+abc_list_menu_item_checkbox
+abc_list_menu_item_icon
+abc_list_menu_item_layout
+abc_list_menu_item_radio
+abc_list_pressed_holo_dark
+abc_list_pressed_holo_light
+abc_list_selector_holo_dark
+abc_list_selector_holo_light
+abc_menu_alt_shortcut_label
+abc_menu_ctrl_shortcut_label
+abc_menu_delete_shortcut_label
+abc_menu_enter_shortcut_label
+abc_menu_meta_shortcut_label
+abc_menu_shift_shortcut_label
+abc_menu_space_shortcut_label
+abc_menu_sym_shortcut_label
+abc_panel_menu_list_width
+abc_popup_background_mtrl_mult
+abc_popup_enter
+abc_popup_exit
+abc_popup_menu_item_layout
+abc_prepend_shortcut_label
+abc_primary_text_material_dark
+abc_primary_text_material_light
+abc_ratingbar_material
+abc_ratingbar_small_material
+abc_screen_content_include
+abc_screen_simple
+abc_screen_toolbar
+abc_scrubber_primary_mtrl_alpha
+abc_scrubber_track_mtrl_alpha
+abc_search_hint
+abc_search_url_text
+abc_search_url_text_normal
+abc_search_url_text_pressed
+abc_search_url_text_selected
+abc_search_view
+abc_search_view_preferred_width
+abc_seekbar_thumb_material
+abc_seekbar_tick_mark_material
+abc_seekbar_track_material
+abc_select_dialog_material
+abc_shrink_fade_out_from_bottom
+abc_slide_in_bottom
+abc_slide_in_top
+abc_slide_out_bottom
+abc_slide_out_top
+abc_spinner_mtrl_am_alpha
+abc_switch_padding
+abc_switch_thumb_material
+abc_switch_track_mtrl_alpha
+abc_tab_indicator_material
+abc_tab_indicator_mtrl_alpha
+abc_text_cursor_material
+abc_text_size_body_1_material
+abc_text_size_body_2_material
+abc_text_size_button_material
+abc_text_size_caption_material
+abc_text_size_headline_material
+abc_text_size_large_material
+abc_text_size_medium_material
+abc_text_size_menu_material
+abc_text_size_small_material
+abc_text_size_subhead_material
+abc_text_size_title_material
+abc_textfield_search_material
+abc_tint_btn_checkable
+abc_tint_default
+abc_tint_edittext
+abc_tint_seek_thumb
+abc_tint_spinner
+abc_tint_switch_track
+abc_tooltip
+abc_tooltip_enter
+abc_tooltip_exit
+abc_vector_test
+Ablehnen
+Abrir en el navegador
+Abrir en el tel
+Abrir en tel
+Abrir no navegador
+Abrir no smartphone
+Abrir no tel
+Abrir no telem
+ABUusi Google Play Palveluiden versio tarvitaan. Se p
+AC%1$s kan inte k
+Acceder
+Acceder con Google
+Accedi
+Accedi con Google
+accent_material_dark
+accent_material_light
+accessibility_custom_action_0
+accessibility_custom_action_1
+accessibility_custom_action_10
+accessibility_custom_action_11
+accessibility_custom_action_12
+accessibility_custom_action_13
+accessibility_custom_action_14
+accessibility_custom_action_15
+accessibility_custom_action_16
+accessibility_custom_action_17
+accessibility_custom_action_18
+accessibility_custom_action_19
+accessibility_custom_action_2
+accessibility_custom_action_20
+accessibility_custom_action_21
+accessibility_custom_action_22
+accessibility_custom_action_23
+accessibility_custom_action_24
+accessibility_custom_action_25
+accessibility_custom_action_26
+accessibility_custom_action_27
+accessibility_custom_action_28
+accessibility_custom_action_29
+accessibility_custom_action_3
+accessibility_custom_action_30
+accessibility_custom_action_31
+accessibility_custom_action_4
+accessibility_custom_action_5
+accessibility_custom_action_6
+accessibility_custom_action_7
+accessibility_custom_action_8
+accessibility_custom_action_9
+Actief gesprek
+action0
+action_bar
+action_bar_activity_content
+action_bar_container
+action_bar_root
+action_bar_spinner
+action_bar_subtitle
+action_bar_title
+action_container
+action_context_bar
+action_divider
+action_image
+action_menu_divider
+action_menu_presenter
+action_mode_bar
+action_mode_bar_stub
+action_mode_close_button
+action_text
+actionBarDivider
+actionBarItemBackground
+actionBarPopupTheme
+actionBarSize
+actionBarSplitStyle
+actionBarStyle
+actionBarTabBarStyle
+actionBarTabStyle
+actionBarTabTextStyle
+actionBarTheme
+actionBarWidgetTheme
+actionButtonStyle
+actionDropDownStyle
+actionLayout
+actionMenuTextAppearance
+actionMenuTextColor
+actionModeBackground
+actionModeCloseButtonStyle
+actionModeCloseDrawable
+actionModeCopyDrawable
+actionModeCutDrawable
+actionModeFindDrawable
+actionModePasteDrawable
+actionModePopupWindowStyle
+actionModeSelectAllDrawable
+actionModeShareDrawable
+actionModeSplitBackground
+actionModeStyle
+actionModeWebSearchDrawable
+actionOverflowButtonStyle
+actionOverflowMenuStyle
+actionProviderClass
+actions
+actionViewClass
+ACTIV
+ACTIVA
+Activa
+Activa Serveis de Google Play
+ACTIVADO
+ACTIVAR
+Activar
+Activar servizos de Google Play
+ACTIVAT
+ACTIVER
+Activer
+activity_chooser_view_content
+activityAction
+activityChooserViewStyle
+activityName
+Actualitza
+Actualiza
+Actualizar
+adas
+ades
+adjacent
+adjust_height
+adjust_width
+adjustable
+ADLai lietotne %1$s darbotos, ir j
+adO app %1$s n
+adov
+aduj
+aduje sa nov
+Advanced
+Aflaai
+Aflaai is voltooi
+Aflaaie
+Aflaaie is onderbreek
+Aflaaie wag tans vir netwerk
+Aflaaie wag tans vir wi-fi
+Afrita
+Afrita tengil
+Afvis
+Aggiorna
+Aggiorna Google Play Services
+AGoogle Play 
+Ah%1$s 
+Ahendamine
+ahovanie 
+ahovanie bolo dokon
+ahovanie je pozastaven
+Ahozko bilaketa
+ahuje sa
+ai%1$s nie b
+ais zvans
+aj ne podr
+ajte ponovo.
+aju nema.
+aju.
+Ajustes avanzados
+akajo na povezavo Wi-Fi.
+akajo na povezavo z omre
+AKTIBATU
+AKTIBATUTA
+AKTIF
+Aktifkan
+Aktifkan layanan Google Play
+AKTIV
+Aktiv
+Aktiv edin
+Aktivace slu
+Aktiveer
+Aktiveer Google Play Dienste
+Aktivera
+Aktivera Google Play-tj
+Aktivieren
+Aktivizo
+Aktivni klic
+Aktualisieren
+Aktualizace slu
+Aktualizova
+Aktualizovat
+Aktualizuj
+Aktueller Anruf
+Alege
+AlertDialog.AppCompat
+AlertDialog.AppCompat.Light
+alertDialogButtonGroupStyle
+alertDialogCenterButtons
+alertDialogStyle
+alertDialogTheme
+alertTitle
+alinami atsisiuntimai
+alji upit
+aljite upit
+Allalaadimine
+Allalaadimine eba
+Allalaadimine l
+Allalaadimised
+Allalaadimised on v
+Allalaadimised peatati
+Allalaadimiste eemaldamine
+Alle anzeigen
+Alles weergeven
+allowDividerAbove
+allowDividerAfterLastItem
+allowDividerBelow
+allowStacking
+alpha
+alphabeticModifiers
+Alt 
+ALT +
+Alt +
+Alt+
+Altern
+Altre opzioni
+always
+alwaysAllow
+alwaysDisallow
+alwaysExpand
+ama jauna Google
+Amaitu deia
+ami Google Play pakalpojumi, ta
+ana.
+anas tausti
+anas vaic
+androidx.startup
+androidx_startup
+androidx_window_activity_scope
+Anfrage senden
+ang c
+ang ch
+ang g
+ang s
+ang t
+ang th
+ang x
+Angalia zote
+anim
+Animation.AppCompat.Dialog
+Animation.AppCompat.DropDownUp
+Animation.AppCompat.Tooltip
+animationBackgroundColor
+animator
+anje
+anje storitev Google Play
+Anmelden
+Annehmen
+Answer
+Antwoord
+Apel 
+Apel primit
+aplik
+aplikac
+App ausw
+Appel en cours
+Appel entrant
+Apri nel browser
+Apri sul telefono
+ar s
+Arama sorgusu
+Arbelean kopiatu da "%1$s".
+Arbelean kopiatu da esteka
+arlykill+
+arrowHeadLength
+arrowShaftLength
+As descargas est
+ase.
+Asenna
+Asenna Google Play Palvelut
+asetukset
+asno zaustavljeni.
+async
+atanl
+Atbild
+Atender
+Atidaryti nar
+Atidaryti telefone
+ATIVADO
+Ativar
+Ativar o Google Play Services
+Ativar servi
+Atjaunin
+atjaunina Google
+Atlikta
+Atmesti
+Atnaujinti
+Atsakyti
+Atsisi
+Atsisiun
+Atsisiuntimai
+Atsisiuntimai pristabdyti
+Atsisiuntimo procesas baigtas
+atstarpes tausti
+Attiva
+Attiva Google Play Services
+attr
+Atualizar
+audio_service_fast_forward
+audio_service_fast_rewind
+audio_service_pause
+audio_service_play_arrow
+audio_service_skip_next
+audio_service_skip_previous
+audio_service_stop
+Auf Smartphone 
+Auflegen
+Aukera gehiago
+Aukeratu aplikazio bat
+auto
+autoCompleteTextViewStyle
+autoSizeMaxTextSize
+autoSizeMinTextSize
+autoSizePresetSizes
+autoSizeStepGranularity
+autoSizeTextType
+Autres options
+Ava brauseris
+Ava telefonis
+ava.
+Avaa puhelimessa
+Avaa selaimessa
+Avan
+Avancerat
+Avanceret
+Avansat
+Avansert
+Avanzate
+ave s storitvami Google Play. Poskusite znova.
+Avvis
+Avvisa
+Axtar
+Ayarlanmad
+Ayarlanmay
+Ayisethiwe
+background
+background_material_dark
+background_material_light
+backgroundSplit
+backgroundStacked
+backgroundTint
+backgroundTintMode
+Bagikan dengan
+Bagikan dengan %s
+Bagikan link
+Baigti pok.
+Baixa
+Baixades
+bami Google Play. Sk
+bami Google Play. Zkuste to pros
+barLength
+baruti-tabernacle-1f043
+Base.AlertDialog.AppCompat
+Base.Animation.AppCompat.Dialog
+Base.TextAppearance.AppCompat
+Base.Theme.AppCompat
+Base.Theme.AppCompat.Dialog
+Base.Theme.AppCompat.Light
+Base.ThemeOverlay.AppCompat
+Base.V21.Theme.AppCompat
+Base.V21.Theme.AppCompat.Dialog
+Base.V21.Theme.AppCompat.Light
+Base.V22.Theme.AppCompat
+Base.V22.Theme.AppCompat.Light
+Base.V23.Theme.AppCompat
+Base.V23.Theme.AppCompat.Light
+Base.V26.Theme.AppCompat
+Base.V26.Theme.AppCompat.Light
+Base.V28.Theme.AppCompat
+Base.V28.Theme.AppCompat.Light
+Base.V7.Theme.AppCompat
+Base.V7.Theme.AppCompat.Dialog
+Base.V7.Theme.AppCompat.Light
+Base.Widget.AppCompat.ActionBar
+Base.Widget.AppCompat.Button
+Base.Widget.AppCompat.ButtonBar
+Base.Widget.AppCompat.EditText
+Base.Widget.AppCompat.ListView
+Base.Widget.AppCompat.PopupMenu
+Base.Widget.AppCompat.RatingBar
+Base.Widget.AppCompat.SeekBar
+Base.Widget.AppCompat.Spinner
+Base.Widget.AppCompat.TextView
+Base.Widget.AppCompat.Toolbar
+BasePreferenceThemeOverlay
+Baztertu
+BB%1$s ez da exekutatuko Google Play Services eguneratzen ez baduzu.
+bbi lehet
+bbI-%1$s ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, angekho kusukela kudivayisi yakho.
+bd%1$s ilovasi Google Play xizmatlarisiz ishlamaydi, biroq qurilmangiz ularni qo
+BDRakendus %1$s t
+Beantwoorden
+Befejez
+beginning
+Bejelentkez
+Belum disetel
+Bendrinti nuorod
+Bendrinti su
+ber Google anmelden
+Besvar
+bfO %1$s n
+bh%1$s, Google Play hizmetleri olmadan 
+bhLai lietotne %1$s darbotos, ir j
+Bidali kontsulta
+Bideoa
+Bilaketa-kontsulta
+Bilatu
+bilsl
+Bir uygulama se
+Bitti
+Bj%1$s 
+bjA(z) %1$s alkalmaz
+blanksteg
+blocking
+BmGoogle Play 
+bn i browser
+bn p
+bnA Google Play-szolg
+bool
+borderlessButtonStyle
+Borra a consulta
+borrar
+Borrar consulta
+Boshiga o
+bottom
+bottomToTop
+Brauzerd
+Brauzerda ochish
+bright_foreground_material_dark
+browser_actions_bg_grey
+browser_actions_divider_color
+browser_actions_header_text
+browser_actions_menu_item_icon
+browser_actions_menu_item_text
+browser_actions_menu_items
+browser_actions_menu_view
+browser_actions_text_color
+browser_actions_title_color
+btn_checkbox_checked_mtrl
+btn_checkbox_unchecked_mtrl
+btn_radio_off_mtrl
+btn_radio_on_mtrl
+bu. L
+buj jeszcze raz.
+Buka dalam penyemak imbas
+Buka di browser
+Buka di ponsel
+Buka konke
+Buka pada telefon
+Buksan sa browser
+Buksan sa telepono
+Busca
+Busca a consulta
+Busca por voz
+Buscar
+button_material_dark
+button_material_light
+buttonBarButtonStyle
+buttonBarNegativeButtonStyle
+buttonBarNeutralButtonStyle
+buttonBarPositiveButtonStyle
+buttonBarStyle
+buttonCompat
+buttonGravity
+buttonIconDimen
+buttonPanel
+buttonPanelSideLayout
+buttonSize
+buttonStyle
+buttonStyleSmall
+buttonTint
+buttonTintMode
+BW%1$s s
+by Google Play
+by Google Play, kter
+by Google Play, ktor
+by Google Play.
+c cu
+c hi
+call_notification_answer_action
+call_notification_answer_color
+call_notification_decline_color
+call_notification_incoming_text
+call_notification_ongoing_text
+camla
+CANC
+cancel_action
+cancel_button_image_alpha
+Cancella query
+Cari
+Carian suara
+Cavab verin
+CC%1$s ei toimi ilman Google Play Palveluita, joita laitteesi ei tue.
+CC%1$s is having trouble with Google Play services. Please try again.
+CC%1$s tidak akan berjalan jika layanan Google Play tidak diperbarui.
+CD%1$s no funcionar
+CD%1$s non funcionar
+cd.baruti.baruti_tabernacle
+ce mo
+ce tos neatbalsta.
+CE%1$s s
+cej opcji
+center
+center_horizontal
+center_vertical
+Cerca
+Cerca per veu
+cessaire. Elle sera bient
+CFO %1$s n
+CFRakenduse %1$s t
+CGoogle Play 
+ch v
+Chagua programu
+Chaguo zaidi
+Chamada em andamento
+Chamada em curso
+Chamada en curso
+Chamada entrante
+Chamada recebida
+chargement
+chargement en cours
+chargement termin
+chargements
+chargements en attente de r
+chargements en attente de Wi-Fi
+chargements en attente du r
+chargements en attente du Wi-Fi
+chargements en cours
+chargements interrompus
+chargements mis en pause
+charger
+chec du t
+checkbox
+checkBoxPreferenceStyle
+checkboxStyle
+checked
+checkedTextViewStyle
+Chia s
+Chiamata in arrivo
+Chiamata in corso
+chirish
+CHKe spu
+Choose an app
+choz
+chronometer
+Chyba slu
+ci hovor
+cia %1$s bude fungova
+cia %1$s m
+cia slu
+cie %1$s sa vy
+cii slu
+ciou %s
+circleCrop
+Citas opcijas
+ciu %1$s bude mo
+ciu %1$s nebude mo
+Ciutkan
+Ck%1$s 
+Clear query
+clearTop
+clip_horizontal
+clip_vertical
+closeIcon
+closeItemLayout
+Colgar
+Collapse
+collapseActionView
+collapseContentDescription
+collapseIcon
+color
+colorAccent
+colorBackgroundFloating
+colorButtonNormal
+colorControlActivated
+colorControlHighlight
+colorControlNormal
+colorError
+colorPrimary
+colorPrimaryDark
+colorScheme
+colorSwitchThumbNormal
+commitIcon
+common_full_open_on_phone
+common_google_signin_btn_tint
+common_open_on_phone
+common_signin_button_text
+common_signin_button_text_long
+Comparte contido con
+Comparteix amb
+Comparteix amb %s
+Comparteix l'enlla
+Compartilhar com
+Compartilhar com %s
+Compartilhar link
+Compartir con
+Compartir con %s
+Compartir enlace
+Compartir ligaz
+Compartir v
+compat_control_corner_material
+Completouse a descarga
+Comprimi
+Conclu
+Condividi con
+Condividi link
+Condividi tramite %s
+Conecta
+config_tooltipAnimTime
+Configuraci
+Connexion
+Consulta de b
+Consulta de cerca
+Consulta de pesquisa
+content
+contentDescription
+contentInsetEnd
+contentInsetEndWithActions
+contentInsetLeft
+contentInsetRight
+contentInsetStart
+contentInsetStartWithNavigation
+contentPanel
+Contestar
+Contrae
+Contraer
+controlBackground
+coordinatorLayoutStyle
+Copia
+Copia l'enlla
+Copia link
+Copiar
+Copiar enlace
+Copiar ligaz
+Copiar link
+Copiar v
+Copiaz
+Copier
+Copier le lien
+Copiouse "%1$s" no portapapeis.
+Copy
+copy
+Copy link
+copy_toast_msg
+CTRL
+Ctrl
+Ctrl 
+CTRL +
+Ctrl +
+Ctrl+
+custom
+custom_dialog
+customNavigationLayout
+customPanel
+cz Us
+czenie
+czenie przychodz
+czono pobieranie
+czysz Us
+d Us
+da a
+Dapatkan layanan Google Play
+Daralt
+darce
+dark
+Dateer Google Play Dienste op
+Dateer op
+Daugiau parink
+Davam ed
+Daxil olun
+daxil olun
+Dayakan
+DD%1$s funktioniert erst nach der Aktivierung der Google Play-Dienste.
+DD%1$s sal nie sonder Google Play Dienste werk nie, wat tans opdateer.
+DD%1$s tidak akan berfungsi jika layanan Google Play tidak diaktifkan.
+dd%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemaskinikan.
+DDI-%1$s ngeke ize iqalise ngaphandle kokuthi ubuyekeze i-Google Play.
+de ir pabeigta
+de neizdev
+DE%1$s no funcionar
+DEAKT
+Decline
+decor_content_parent
+Deel met
+Deel met %s
+Deel skakel
+default_activity_button
+defaultQueryHint
+defaultValue
+Deia abian da
+Deila me
+Deila tengli
+Del link
+Del med
+Del med %s
+Dela l
+Dela med
+Dela med %s
+Delen met
+Delen met %s
+Delete
+delete
+Delete 
+Deli link
+Deli povezavo
+Delite pomo
+dependency
+des gaida savienojumu ar t
+des gaida savienojumu ar Wi-Fi.
+des ir p
+DESACTIVA
+DESACTIVADA
+DESACTIVADO
+DESACTIVAR
+DESACTIVAT
+DESAKTIBATU
+DESAKTIBATUTA
+DESATIVADO
+Desc
+Descarc
+Descarga de archivos completado
+Descargando
+Descargar
+Descargas
+Descargas en espera de red
+Descargas en espera de Wi-Fi
+Descargas pausadas
+Deschide
+Deschide 
+Deskargak
+Deskargak kentzen
+Deskargak pausatuta daude
+Deskargatzen
+Desligar
+Desplazarse hacia arriba
+Devam eden arama
+DEZACTIVAT
+DGoogle 
+Di chuy
+dialog_button
+dialogCornerRadius
+dialogIcon
+dialogLayout
+dialogMessage
+dialogPreferenceStyle
+dialogPreferredPadding
+dialogTheme
+dialogTitle
+DIAplik
+diegti
+Dien navraag in
+Dijeli link
+Dijeli putem aplikacije %s
+Dijeli s
+Dijeli sa
+dik, ha enged
+dim_foreground_material_dark
+dim_foreground_material_light
+dimen
+dirin
+disabled_alpha_material_dark
+disabled_alpha_material_light
+disableDependentsState
+disableHome
+displayOptions
+divider
+dividerHorizontal
+dividerPadding
+dividerVertical
+dni, ha friss
+do gj
+Dodatno
+Dohodni klic
+Dolazni poziv
+Done
+Dostopnost storitev Google Play
+Dostupnost Google Play usluga
+Dostupnost slu
+Dotaz pro vyhled
+Download
+Download abgeschlossen
+Download completato
+Download completed
+Download conclu
+Download dijeda
+Download failed
+Download fehlgeschlagen
+Download gagal
+Download in attesa di rete
+Download in attesa di Wi-Fi
+Download in corso
+Download in pausa
+Download mislykkedes
+Download non riuscito
+Download selesai
+Downloaden
+Downloaden er udf
+Downloaden mislukt
+Downloaden voltooid
+Downloader
+Downloading
+Downloads
+Downloads er sat p
+Downloads gepauzeerd
+Downloads pausados
+Downloads paused
+Downloads pausiert
+Downloads verwijderen
+Downloads wachten op netwerk
+Downloads wachten op wifi
+Downloads waiting for network
+Downloads waiting for Wi-Fi
+Downloads waiting for WiFi
+Downloads werden entfernt
+drawable
+drawableBottomCompat
+drawableEndCompat
+drawableLeftCompat
+drawableRightCompat
+drawableSize
+drawableStartCompat
+drawableTint
+drawableTintMode
+drawableTopCompat
+drawerArrowStyle
+dropdownListPreferredItemHeight
+dropDownListViewStyle
+dropdownPreferenceStyle
+ds p
+duire
+DWiFi 
+dzaj
+dzenie.
+dzeniu Us
+dzie dzia
+dzu, m
+e automatiquement.
+e aux services Google
+e da se pokrene ako ne a
+e da se pokrene bez Google Play usluga, koje nisu instalirane na ure
+e da se pokrene bez Google Play usluga, koje se trenutno a
+e da se pokrene bez Google Play usluga, koje ure
+e funkcionirati ako ne a
+e funkcionirati ako ne omogu
+e funkcionirati bez usluga Google Playa koje nisu instalirane na va
+e funkcionirati bez usluga Google Playa koje va
+e funkcionisati ako ne omoguc
+e ne omogo
+e ne posodobite storitev Google Play.
+e opcija
+e raditi ako ne a
+e raditi ako ne omogu
+e raditi bez Google Play usluga, koje se trenutno a
+e raditi bez Google Play usluga, koje va
+e raditi bez Google Play usluga, kojih na va
+e se a
+e se pokrenuti bez usluga Google Playa koje se trenuta
+e se samo a
+e se slu
+e zariadenie nepodporuje.
+eaua
+eaua Wi-Fi
+eb Google Play
+eb Google Play. Nov
+eba aktivovat slu
+eba aktualizovat slu
+eba slu
+edit_query
+edit_text_id
+editTextBackground
+editTextColor
+editTextPreferenceStyle
+editTextStyle
+Een app selecteren
+Een inkomend gesprek screenen
+EERakendusel %1$s on probleeme Google Play teenustega. Proovige uuesti.
+eeVersi baharu perkhidmatan Google Play diperlukan. Kemas kini automatik akan dijalankan sebentar lagi.
+EFAplikacija %1$s ima te
+Effacer la requ
+eg%1$s ne fonctionnera pas sans les services Google
+EGAplikacija %1$s ne bo delovala, 
+Eginda
+EGPotrebna je nova verzija Google Play usluga. Uskoro c
+EGPotrebna je nova verzija usluga Google Playa. Uskoro 
+Eguneratu
+Eguneratu Google Play Services
+EH%1$s ma problem z dost
+Ei asetettu
+eiLai lietotne %1$s darbotos, ir nepiecie
+Eingabetaste
+Eingehender Anruf
+Eiti 
+ekaju mre
+ekaju na mre
+ekaju na WiFi
+ekaju povezivanje s mre
+ekaju Wi-Fi
+ekaju WiFi
+Ekki stillt
+elA(z) %1$s alkalmaz
+Elegir una app
+elevation
+eliminar
+Elutas
+em ure
+Enable
+Enable Google Play services
+enableCopying
+enabled
+enAU
+enCA
+end_padder
+ende opkald
+ende opkald screenes
+ende samtal
+ende samtale
+Endiril
+Endirilir
+Endirin
+Endirm
+enekler
+enGB
+Enged
+enIN
+Enter
+enter
+Enter 
+entr
+entries
+entryValues
+Envia la consulta
+Enviar consulta
+Envoyer la requ
+enXC
+Eo%1$s 
+epKe spu
+er se
+Erantzun
+Erro do Google Play Services
+Error de Google Play Services
+Error de Serveis de Google Play
+error_color_material_dark
+error_color_material_light
+Errore Google Play Services
+Erweitert
+Es%1$s 
+Esborra la consulta
+Escolher uma aplica
+espa
+espace
+Espacio
+espacio
+Espai
+espazo
+Esperando red para descargas
+Esperando Wi-Fi para descargas
+essayer.
+esUS
+Et indg
+etak "%1$s" kopiran je u me
+etek
+Etkinle
+etky
+etnu
+etnu stranicu
+Ett inkommande samtal filtreras
+Eve gidi
+EWi-Fi
+exo_download_completed
+exo_download_description
+exo_download_downloading
+exo_download_failed
+exo_download_paused
+exo_download_paused_for_network
+exo_download_paused_for_wifi
+exo_download_removing
+expand_activities_button
+expand_button
+expand_button_title
+expanded_menu
+Ez da ezarri
+ezabatu
+Ezin izan da deskargatu
+Ezinye izinketho
+F"%1$s" 
+Faka
+Falha na transfer
+Falha no download
+fallback_menu_item_copy_link
+fallback_menu_item_share_link
+Fara heim
+Fara upp
+fast_out_slow_in
+fastscroll_default_thickness
+fastscroll_margin
+fastscroll_minimum_range
+fastScrollEnabled
+fastScrollVerticalThumbDrawable
+fastScrollVerticalTrackDrawable
+Fazendo o download
+Fazer login
+Fazer login com o Google
+Fazer o download
+Feito
+Fejl i Google Play-tjenester
+Fel p
+Ferdig
+Fertig
+ff%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada peranti anda.
+ffnen
+FFPerlu versi baru layanan Google Play. Akan segera memperbarui sendiri.
+FG%1$s no funcionar
+FGAplikacija %1$s ima problema s Google Play uslugama. Poku
+FGAplikacija %1$s ne bo delovala, 
+fgDu m
+fhEine neue Version der Google Play-Dienste wird ben
+fill
+fill_horizontal
+fill_vertical
+Filter f
+Filtrage d'un appel entrant
+Filtrando chamada entrante
+Filtrando una llamada entrante
+Filtrer un appel entrant
+Filtrerer et innkommende anrop
+Filtriranje dolaznog poziva
+find
+Find hjem
+Fine
+fini
+finie
+finishPrimaryWithPlaceholder
+finishPrimaryWithSecondary
+finishSecondaryWithPrimary
+firebase_common_keep
+firstBaselineToTopHeight
+Fjarl
+Fjerner downloads
+Fjerner nedlastinger
+Fleiri valkostir
+Fler alternativ
+Flere alternativer
+Flere valgmuligheder
+flutter_share_file_paths
+Fn +
+Fogad
+Fonction+
+fono
+font
+fontFamily
+fontProviderAuthority
+fontProviderCerts
+fontProviderFetchStrategy
+fontProviderFetchTimeout
+fontProviderPackage
+fontProviderQuery
+fontProviderSystemFontFamily
+fontStyle
+fontVariationSettings
+fontWeight
+foreground_material_dark
+foreground_material_light
+forever
+Fout met Google Play-services
+fragment
+fragment_close_enter
+fragment_close_exit
+fragment_container_view_tag
+fragment_fade_enter
+fragment_fade_exit
+fragment_fast_out_extra_slow_in
+fragment_open_enter
+fragment_open_exit
+frCA
+Friss
+fu af 
+Fu%1$s 
+FuGoogle Play 
+Funci
+Functie +
+FUNCTION
+Function
+Function 
+Function+
+Fungsi+
+Fungua katika kivinjari
+Fungua kwenye simu
+Funkcijas tausti
+Funkcyjny+
+Funksie+
+Funksioni+
+Funksiya+
+Funksjon+
+Funktion
+Funktionstaste
+Funktsiooniklahv +
+Funtzioa +
+FUNZIONE +
+Futa hoja
+g. A szolg
+Gaan na tuisskerm
+Gaan op
+Gaitu
+Gaitu Google Play Services
+galinkite 
+galinsite 
+galinti
+gapBetweenBars
+Garbitu kontsulta
+Gata
+Gatavs
+Gaunamasis skambutis
+Gaunamojo skambu
+gbarkeit von Google Play-Diensten
+gcm_defaultSenderId
+Geavanceerd
+geforesp
+Gelen arama
+Gelen arama s
+Geli
+Gereed
+Gesproken zoekopdracht
+Get Google Play services
+Gevorderd
+gg p
+GGoogle 
+ghost_view
+ghost_view_holder
+GHVajalik on Google Play teenuste uus versioon. See v
+GI%1$s kj
+gina d'inici
+gina inicial
+gina principal
+gir ni
+GJ%1$s kan inte k
+Glasovna pretraga
+Glasovno iskanje
+Glasovno pretra
+GM%1$s getur ekki keyrt 
+GN%1$s getur ekki keyrt 
+gning
+goIcon
+Google
+Google 
+Google il
+Google orqali kirish
+Google Play
+Google Play 
+Google Play Hizmetleri hatas
+Google Play hizmetlerini edinin
+Google Play services error
+Google Play Services-en errorea
+Google Play Services-fout
+Google Play teenuste hankimine
+Google Play teenuste lubamine
+Google Play Tjenester-feil
+Google Play xizmatlari xatosi
+Google Play xizmatlarini yoqish
+Google Play-Dienste aktivieren
+Google Play-services aanzetten
+Google Play-services ophalen
+Google Play-services updaten
+Google'da oturum a
+Google-
+google_api_key
+google_app_id
+google_crash_reporting_api_key
+google_play_services_version
+google_storage_bucket
+googleg_disabled_color_18
+googleg_standard_color_18
+Goqa
+got ar lietojumprogrammu %s
+got ar:
+got saiti
+Gotovo
+Gotowe
+group_divider
+Gw%1$s 
+Habilitar
+Hafna
+Haijawekwa
+Haku
+Hakukysely
+Hammasi
+Hang Up
+Hang up
+Hangalap
+Hape n
+Hapus kueri
+Hasi saioa
+Havoladan nusxa olish
+Havolani ulashish
+hd edin.
+height
+Hent Google Play-tjenester
+Herunterladen
+HGoogle 
+hh%1$s aplikazioa ezin da erabili Google Play Services gabe, baina zure gailua ez da harekin bateragarria.
+HH%1$s aplikazioak arazoak ditu Google Play Services-ekin. Saiatu berriro.
+hh%1$s kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat.
+HH%1$s kan niet worden uitgevoerd, tenzij je Google Play-services updatet.
+HH%1$s ondervind probleme met Google Play Dienste. Probeer asseblief weer.
+HH%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.
+hi%1$s ne fonctionnera pas sans les services Google
+HI%1$s non se executar
+HI%1$s wird nur ausgef
+hide_ime_id
+hideOnContentScroll
+HIDUP
+highlight_alpha_material_dark
+highlight_alpha_material_light
+highlighted_text_material_dark
+highlighted_text_material_light
+Higit pang opsyon
+Hindi na-download
+Hindi nakatakda
+hint_alpha_material_dark
+hint_alpha_material_light
+histamine
+hjDu skal bruge en ny version af Google Play-tjenester. Opdateringen gennemf
+HJLai lietotne %1$s darbotos, jums ir j
+HJPotrebna je nova verzija Google Play usluga. Ubrzo 
+hkSe necesita una nueva versi
+Hlasov
+Hledat
+hlen
+HMAplikace %1$s m
+HMLai lietotne %1$s darbotos, ier
+hnout
+ho hovoru
+ho obsahu
+HOAplikacja %1$s nie b
+Hobespen aurreratuak
+Hoja ya utafutaji
+home
+homeAsUp
+homeAsUpIndicator
+homeLayout
+Hotovo
+Hreinsa fyrirspurn
+hrt, wenn du die Google Play-Dienste aktualisierst.
+Hylk
+i %s
+i folosind %s
+i interogarea
+i la
+i la ecranul de pornire
+i nguy
+i o aplica
+i pe telefon
+i serviciile Google Play
+i serviciile Google Play.
+i sve
+i tot
+i truy v
+i upit
+i vse
+i xu
+I-clear ang query
+I-collapse
+I-download
+I-enable
+I-install
+I-OFF
+I-ON
+I-update
+iama
+iama be 
+iama, jei neatnaujinsite 
+Ibaba
+Ibahagi ang link
+Ibahagi gamit ang %s
+Ibahagi sa/kay
+ibilidade dos servizos de Play
+ic_arrow_down_24dp
+ic_call_answer
+ic_call_answer_low
+ic_call_answer_video
+ic_call_answer_video_low
+ic_call_decline
+ic_call_decline_low
+ic_launcher
+ic_launcher_background
+ic_launcher_foreground
+ic_mic
+ico storitev Google Play. V kratkem se bodo posodobile.
+icon
+icon_frame
+icon_group
+icon_only
+iconifiedByDefault
+iconSpaceReserved
+iconTint
+iconTintMode
+Identifikohu
+Identifikohu me Google
+Idi gore
+Idi na po
+Idite na po
+Idite nagore
+ie mo
+ieb Google Play
+ieb Google Play, ktor
+ieb Google Play.
+ieb Google Play. Aktualizuj
+IESL
+Iesniegt vaic
+Iesp
+iesp
+ievad
+ifRoom
+Igangv
+II%1$s ei toimi ilman Google Play Palveluita, jotka puuttuvat laitteeltasi.
+iiHindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play, na hindi nasusuportahan ng iyong device.
+iiKailangan ang bagong bersyon ng mga serbisyo ng Google Play. Mag-a-update itong mag-isa sa ilang sandali.
+IJ%1$s no se ejecutar
+ijmout
+ikelauale
+ikelauale kopeeritud.
+Ikholi engenayo
+Ikholi eqhubekayo
+Ikke angitt
+Ikke angivet
+Ikusi guztiak
+ILDu skal installere Google Play-tjenester, f
+iljanje poizvedbe
+ilLa nouvelle version des services Google Play est n
+Ilovani tanlang
+Im Browser 
+image
+image_frame
+image_share_filepaths
+imageAspectRatio
+imageAspectRatioAdjust
+imageButtonStyle
+imasolev k
+ime_base_split_test_activity
+Imenyu+
+Imepakuliwa
+Imeshindwa kupakua
+IMEWASHWA
+IMEZIMWA
+imLa nouvelle version des services Google
+IMO %1$s n
+in a
+in kablosuz a
+IN%1$s 
+Inaalis ang mga na-download
+Inachuja simu unayopigiwa
+Inaondoa vipakuliwa
+Inapakua
+Incoming call
+inde g
+indeterminateProgressStyle
+Indg
+Indsend foresp
+info
+Ingia katika akaunti
+Inicia la sessi
+Inicia sessi
+Iniciar sesi
+Iniciar sess
+iniet v
+initialActivityCount
+initialExpandedChildrenCount
+Inkomend gesprek
+Inkomende oproep
+Inkommande samtal
+Inloggen
+Inloggen met Google
+Innkommende anrop
+Instal
+instal
+Instala
+Instalace slu
+Instalar
+Instalar o Google Play Services
+Instalatu
+Instaliraj
+Install
+Installa
+Installa Google Play Services
+Installeer
+Installer
+Installer Google Play-tjenester
+Installera
+Installeren
+Installi
+Installieren
+Instalo
+Instalovat
+Inte angett
+integer
+interpolator
+Intro
+intro
+Invia query
+INVIO
+io tikrinimas
+iona dec
+IPAplik
+Ir a inicio
+Ireki arakatzailean
+Ireki telefonoan
+is opci
+IS%1$s hal-haz
+Isibuyekezo
+Iskalna poizvedba
+Iskanje
+Iskanje 
+ISKLJU
+isLightTheme
+isPreferenceVisible
+Isumite ang query
+italic
+ite Google Play usluge
+ite Google Play usluge.
+ite storitev Google Play.
+ite upit
+ite usluge Google Playa.
+ite...
+itemPadding
+itt.
+iuni
+iuo metu atnaujinamos.
+ivanje
+ivanje usluga Google Playa
+Ividiyo
+ivit
+ivitet
+ivittyy pian.
+Iyalanda
+Izaberite aplikaciju
+Izbira aplikacije
+Izbri
+Izbris poizvedbe
+IZKLOP
+IZKLOPLJENO
+IZSL
+j verzi
+Jaa linkki
+Jaa: %s
+Jaga linki
+Jaga:
+Jagamine rakendusega %s
+jais zvans
+Javob berish
+Jawab
+jeblik.
+jeblikket opdateres.
+jem.
+Jibu
+jiet
+JJ%1$s hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal.
+JJ%1$s won't run without Google Play services, which are currently updating.
+JJNagkakaproblema ang %1$s sa mga serbisyo ng Google Play. Pakisubukan ulit.
+JJNew version of Google Play services needed. It will update itself shortly.
+JKO app %1$s est
+JL%1$s est
+JL%1$s kan ikke k
+jl%1$s no se ejecutar
+jlZur Nutzung von %1$s sind Google Play-Dienste erforderlich, die auf deinem Ger
+JM%1$s fungerar inte utan Google Play-tj
+jo Google
+JO%1$s, 
+JOAKTIV
+Joan gora
+Joan orri nagusira
+Joriy chaqiruv
+jra.
+jumi
+jums
+jumu
+JUNGTA
+JUNGTI
+jwA(z) %1$s alkalmaz
+k igen.
+ka %1$s bola skop
+ka %1$s byla zkop
+ka balsu
+ka Google Play usluga
+ka Google Play usluge
+ka Usluga za Google Play
+KAPALI
+KAPAT
+Kapat
+karpin
+Kasalukuyang tawag
+Kata simu
+Kataa
+Keeldu
+Kemas kini
+Kembali ke atas
+Kengaytirilgan
+keord
+Keres
+Kesalahan layanan Google Play
+Keur tans 'n inkomende oproep
+keylines
+Khetha insiza
+Kies 'n program
+Kieslys+
+kinu 
+Kirim kueri
+Kirish
+Kirjaudu Google-tilille
+Kirjaudu sis
+Kiruvchi chaqiruv
+Kiruvchi chaqiruvni filtrlash
+kja 
+KK%1$s inakumbwa na hitilafu ya huduma za Google Play. Tafadhali jaribu tena.
+KK%1$s menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi.
+KK%1$s tiene problemas con los servicios de Google Play. Vuelve a intentarlo.
+kkal
+Klaar
+Klar
+klaus
+klausa
+klu.
+KM%1$s ishlashi uchun qurilmangizda Google Play xizmatlarini o
+KN%1$s ne mo
+KN%1$s nu va rula f
+kning
+KO%1$s nuk do t
+Komprimera
+Kon nie aflaai nie
+Kongsi dengan
+Kongsi dengan %s
+Kongsi pautan
+Kopeeri link
+Kopeerimine
+Kopi
+Kopiatu
+Kopiatu esteka
+Kopieer
+Kopieer skakel
+Kopiera
+Kopiera l
+Kopieren
+Kopijuoti
+Kopijuoti nuorod
+Kopioi
+Kopioi linkki
+Kopiraj
+Kopiraj link
+Kopiraj povezavo
+Kopiraj vezu
+Kopisha
+Kopisha isixhumanisi
+Kopiuj
+Kopiuj link
+Kopjo
+Kopjo lidhjen
+Kopyahin
+Kopyahin ang link
+Kopyala
+Kopyalay
+kos u
+Kosongkan pertanyaan
+koti
+kprogramm
+Krmarjenje na za
+Kry Google Play Dienste
+Ktrl +
+kuma ekr
+Kunja
+kustuta
+Kususwa okulandiwe
+Kutafuta kwa kutamka
+Kuva k
+Kveikja
+KVEIKT
+Kwenziwe
+Ky%1$s 
+K}Google Play 
+l, amelyek friss
+l, amelyek hi
+l, amelyeket eszk
+Laai tans af
+labilirli
+Ladataan
+Ladda ned
+Laddar ned
+Lagi pilihan
+laik notiek to atjaunin
+Landa
+Lanjutan
+lant
+lapra lett m
+lapra m
+lasszon alkalmaz
+Last ned
+lastBaselineToBottomHeight
+Laster ned
+lat al dispositiu.
+lata sor
+Lataa
+Lataukset
+Lataukset keskeytetty
+Lataus ep
+Lataus valmis
+Latn
+launch_background
+LaunchTheme
+layout
+layout_anchor
+layout_anchorGravity
+layout_behavior
+layout_dodgeInsetEdges
+layout_insetEdge
+layout_keyline
+layoutManager
+lectionner une application
+Leertaste
+left
+Legg p
+Leggja 
+Leit
+Leita
+Leitarfyrirspurn
+Lejupiel
+lemi tamamland
+Les baixades estan en pausa
+let odkaz
+let s
+lf innan skamms.
+lg en app
+li nie w
+li nie zainstalujesz na urz
+li nie zaktualizujesz Us
+lieties lietotni
+light
+Lihat semua
+Liigu 
+Liigu avalehele
+lij zapytanie
+lily
+Limpar consulta
+line1
+line3
+lineHeight
+Link bufer
+Link copiato negli appunti
+Link copied to clipboard
+Link delen
+Link disalin ke papan klip
+Link in Zwischenablage kopiert
+Link je kopiran u me
+Link kopeeriti l
+Link kopi
+Link kopieren
+Link m
+Link megoszt
+Link naar klembord gekopieerd
+Link skopiowany do schowka
+Link teilen
+Link v
+Linki kopyalay
+Linki payla
+Linkki kopioitu leikep
+list_item
+listChoiceBackgroundIndicator
+listDividerAlertDialog
+listItemLayout
+listLayout
+listMenuViewStyle
+listMode
+Listo
+listPopupWindowStyle
+listPreferredItemHeight
+listPreferredItemHeightLarge
+listPreferredItemHeightSmall
+listPreferredItemPaddingEnd
+listPreferredItemPaddingLeft
+listPreferredItemPaddingRight
+listPreferredItemPaddingStart
+lj en app
+LJAS
+lkozzon 
+LL%1$s aplikazioak ez du funtzionatuko Google Play Services gaitzen ez baduzu.
+llab-quvvatlamaydi.
+Llamada en curso
+Llamada entrante
+lle.
+llEr is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd.
+lmadi. Qaytadan urinib ko
+lmZur Nutzung von %1$s sind die Google Play-Dienste erforderlich, die auf deinem Ger
+lne aktualizuj
+LO%1$s ne
+LO%1$s, Google Play hizmetleriyle ilgili sorun ya
+locale
+Log ind
+Log ind med Google
+Log masuk
+Log masuk dengan Google
+Logg p
+Logga in
+Logga in med Google
+Logi sisse
+Logi sisse Google'i kontoga
+Login
+Login dengan Google
+logo
+logoDescription
+Loki
+Lopeta puhelu
+Lortu Google Play Services
+lotsing
+LP%1$s ne
+LQReikia naujos versijos 
+LR%1$s nuk do t
+lreiz.
+lrun
+lsNevojitet nj
+lStar
+lt a let
+LT%1$s cihaz
+ltat
+Luba
+Lui af
+lyez
+lyezi a Google Play-szolg
+m ki
+m vi cung c
+m znovu.
+ma ar Google Play pakalpojumu darb
+Maak in blaaier oop
+Maak oop op foon
+Mag-navigate pataas
+Mag-navigate sa home
+Mag-sign in
+Mag-sign in sa Google
+Maghanap
+Mai multe op
+Mais op
+Maius +
+MAIUSC +
+Maj+
+manum
+material_blue_grey_800
+material_blue_grey_900
+material_blue_grey_950
+material_deep_teal_200
+material_deep_teal_500
+material_grey_100
+material_grey_300
+material_grey_50
+material_grey_600
+material_grey_800
+material_grey_850
+material_grey_900
+MATI
+maxButtonHeight
+maxHeight
+maxWidth
+mayacak.
+mayacaq.
+maz ve bu hizmetler cihaz
+maz.
+Mbyll
+me avec les services Google
+measureWithLargestChild
+media_actions
+medzern
+Meer opties
+Megnyit
+Megoszt
+Mekl
+Meld aan
+Meld aan met Google
+mellemrum
+mellomrom
+Memuat turun
+Mendownload
+Mengalih keluar muat turun
+Menghapus download
+Meni +
+Meniu+
+Menu
+menu
+Menu 
+MENU +
+Menu +
+Menu+
+Menua +
+Meny
+Meny+
+Menyaring panggilan masuk
+Menyja+
+Menyu+
+mes avec les services Google
+message
+META
+Meta
+Meta 
+META +
+Meta +
+Meta tausti
+Meta+
+Meta-Taste
+Mettre 
+mezern
+Mga Download
+middle
+Minimieren
+Minnka
+Mipangilio ya Kina
+mipmap
+Miscellaneous
+Mit %s teilen
+MM%1$s tidak akan berfungsi melainkan anda mendayakan perkhidmatan Google Play.
+MMAplikacija %1$s ne deluje brez storitev Google Play, vendar teh ni v napravi.
+mogat.
+More options
+Mostra tutto
+Mostra-ho tot
+mpin
+MQDet har uppst
+MS%1$s ei toimi ilman Google Play Palveluita, joita p
+MS%1$s, 
+mta Google Play-tj
+mtal
+mtal 
+mtal berst
+mtal sem berst
+mtina edin
+Muat turun
+Muat turun dijeda
+Muat turun gagal
+Muat turun menunggu rangkaian
+Muat turun menunggu Wi-Fi
+Muat turun selesai
+multiChoiceItemLayout
+multiply
+my so slu
+Mynds
+n %1$s sin los Servicios de Google Play, que no son compatibles con tu dispositivo.
+n %1$s tiene problemas con los Servicios de Google Play. Vuelve a intentarlo.
+n %s
+n actualizando neste momento.
+n agardando pola rede
+n agardando pola wifi
+n autom
+n avanzada
+n browser
+n clipboard
+n clipboard.
+n con Google
+n cur
+n de los servicios de Google Play. Se actualizar
+n de Servicios de Google Play. Se actualizar
+n desf
+n do schr
+n dos servizos de Google Play. Actualizarase en breve.
+n e fragmenteve
+n en curso de Servicios de Google Play.
+n en pausa
+n Google Play xidm
+n instalados en tu dispositivo.
+n kh
+n no portapapeis
+n phi
+n Serveis de Google Play
+n sus
+n tho
+n uppf
+n. Pr
+na bax
+na do schr
+na nov
+Na-pause ang mga pag-download
+Nabavite Google Play usluge
+Nach oben
+Nagda-download
+najbli
+NAKA-OFF
+NAKA-ON
+Nakili
+Nakili kiungo
+Nakopya sa clipboard ang link
+Namesti
+Namestitev storitev Google Play
+Napaka storitev Google Play
+Napredno
+Natrag
+Nav iestat
+Navega a la p
+Navega cap amunt
+Navegar a la p
+Navegar hacia arriba
+Navegar para a p
+Navegar para casa
+Navegar para cima
+Naviga
+Navigasi ke atas
+Navigasi laman utama
+Navigate home
+Navigate up
+navigationContentDescription
+navigationIcon
+navigationMode
+Naviger hjem
+Navigera hem
+Navigera upp
+Navigeren naar startpositie
+ncearc
+ncelle
+ncellemezseniz %1$s 
+ncellenmekte olan Google Play hizmetleri olmadan 
+ncelleyecektir.
+ncelleyin
+nchide
+ncia
+ncia conclu
+ncia.
+ncias
+ncias a aguardar uma rede
+ncias a aguardar Wi-Fi
+ncias colocadas em pausa
+nculo
+nculo al portapapeles
+nda problem var. Daha sonra yenid
+Ndaj lidhjen
+Ndaje me
+Ndaje me %s
+ndan desteklenmiyor.
+nde.
+nder
+ndir
+ndirilemedi
+ndirilenler
+ndirilenler kald
+ndiriliyor
+ndirme i
+ndirmeler duraklat
+ndirmeler i
+ne filtreerimine
+Nedladdningar
+Nedladdningar har pausats
+Nedladdningar tas bort
+Nedladdningar v
+Nedladdningen 
+Nedladdningen misslyckades
+Nedlastingen er fullf
+Nedlastingen mislyktes
+Nedlastinger
+Nedlastinger er satt p
+negativeButtonText
+Nem siker
+Nenastaven
+Nenastaveno
+Nenda mwanzo
+Nenustatyta
+Nepavyko atsisi
+Nepodarilo sa stiahnu
+Nesetat
+nestedScrollViewStyle
+neteltetve
+never
+ng b
+ng c
+ng cao
+ng ch
+ng d
+ng g
+ng gi
+ng Google
+ng h
+ng ho
+ng l
+ng li
+ng n
+ng nh
+ng t
+ng v
+ngelighed
+Ngena ngemvume
+Ngena ngemvume nge-Google
+Ngjitu lart
+nglighet f
+nh duy
+ni g
+Ni nastavljeno
+Nicht festgelegt
+Nie gestel nie
+Nie uda
+Nie ustawiono
+Niet ingesteld
+Nije pode
+Nije postavljeno
+Nika amandla
+Nimemaliza
+Nincs be
+nk kopierad till Urklipp
+nky.
+nmad
+nmag
+NN%1$s tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play.
+nnestus
+no a
+No definit
+No s'ha pogut baixar
+No se ha podido descargar
+No se pudo descargar
+Nog opsies
+Non d
+Non impostato
+NONAKTIF
+none
+NOPotrebujete novo razli
+Noraid
+normal
+NormalTheme
+nost
+nosti
+Not set
+not_set
+Notiek lejupiel
+notification_action
+notification_action_background
+notification_action_icon_size
+notification_action_text_size
+notification_action_tombstone
+notification_background
+notification_bg
+notification_bg_low
+notification_bg_low_normal
+notification_bg_low_pressed
+notification_bg_normal
+notification_bg_normal_pressed
+notification_big_circle_margin
+notification_icon_background
+notification_icon_bg_color
+notification_large_icon_height
+notification_large_icon_width
+notification_main_column
+notification_media_action
+notification_right_icon_size
+notification_subtext_size
+notification_template_big_media
+notification_template_icon_bg
+notification_template_media
+notification_template_part_time
+notification_tile_bg
+notification_top_pad
+notification_top_pad_large_text
+NP%1$s ne mo
+NPNeces
+NSAplikacja %1$s nie b
+nster
+nster kr
+nster, och dessa uppdateras f
+nster.
+nsterna, som inte st
+nsterna, som saknas p
+nsterna.
+nsterna. F
+ntao de novo.
+ntar p
+ntrerupte
+Nuk 
+numericModifiers
+nustu Google Play
+nustu Google Play vantar. H
+nustu Google Play virka.
+nustu Google Play, sem er ekki studd af t
+nustu Google Play, sem vantar 
+nustu Google Play, sem veri
+nustu Google Play.
+nustu Google Play. Reyndu aftur.
+Nusxa olish
+nyoznak az eszk
+o %s
+o a ser atualizados.
+o ativar os servi
+o atualizada do Google Play Services.
+o atualizar os servi
+o com o Google
+o compat
+o de rede
+o definido
+o do Google Play Services. Ele ser
+o dos servi
+o em falta no seu dispositivo.
+o est
+o funciona enquanto n
+o funciona sem o Google Play Services, o qual est
+o funciona sem o Google Play Services, o qual n
+o recebida
+o si
+Obre al navegador
+Obre al tel
+Obri
+Obter servi
+Ocultar
+Odaberite aplikaciju
+Odabir aplikacije
+Odbaci
+Odbierz
+Odbij
+Odeslat dotaz
+Odgovori
+Odkaz zkop
+Odmietnu
+Odosla
+Odpiranje v telefonu
+Odpri v brskalniku
+Odrzu
+odstr
+Odstra
+Odstranjevanje prenosov
+Okulandwayo kumiswe isikhashana
+Okuthuthukisiwe
+oldalra
+Omhoog navigeren
+Omogo
+Omogu
+Omoguc
+On-going call
+Ongoing call
+onnistui
+OO%1$s haitafanya kazi bila huduma za Google Play. Huduma hizi zinasasishwa sasa.
+oo%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tidak disokong oleh peranti anda.
+Opciones avanzadas
+Opcions avan
+Opdater
+Opdater Google Play-tjenester
+Open in browser
+Open on phone
+Openen in browser
+Openen op telefoon
+Ophangen
+Opna 
+Oppdater
+Oppdater Google Play-tjenester
+Oproep aan die gang
+Opsi lain
+Opsione t
+OPSovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. Yrit
+OQAplikacija %1$s ne
+OR%1$s no s'executar
+order
+orderingFromXml
+Orientohu p
+os do Google Play
+os do Google Play, os quais est
+os do Google Play, os quais n
+os do Google Play.
+os do Google Play. Esta ser
+os do Google Play. Tente novamente.
+OS%1$s ilovasini Google Play xizmatlariga ulab bo
+Osatu da deskarga
+osowe
+Ota k
+Otev
+Otsige 
+Otsing
+Otsingup
+Oturum a
+Otvori
+Otvori na telefonu
+Otvori u pregleda
+Otvori u pregledniku
+Ouvrir dans le navigateur
+Ouvrir dans un navigateur
+Ouvrir sur le t
+overlapAnchor
+Ovozli qidiruv
+p "%1$s" v
+p nh
+paddingBottomNoButtons
+paddingEnd
+paddingStart
+paddingTopNoTitle
+Paghahanap gamit ang boses
+Paie
+Pakua
+Palos
+panelBackground
+panelMenuListTheme
+panelMenuListWidth
+Panggilan masuk
+Panggilan sedang berlangsung
+Papasok na tawag
+Papildu iestat
+Param
+parent_matrix
+parentPanel
+Partager avec
+Partager avec %s
+Partager le lien
+Partekatu %s aplikazioarekin
+Partekatu esteka
+Partekatu honekin
+Partilhar com
+Partilhar com a aplica
+Partilhar link
+Pasang
+Pasirinkite program
+Pastro pyetjen
+Pata huduma za Google Play
+Pateikti u
+Pautan disalin ke papan keratan
+Payla
+pdatet.
+pem do Us
+Penelusuran suara
+Penja
+Perbarui layanan Google Play
+persistent
+Pertanyaan carian
+Pesquisa por voz
+Pesquisar
+peta k
+petati
+Phendula
+phone
+pi automatyczna aktualizacja.
+Pierakst
+Pilih apl
+Pilih aplikasi
+placeholderActivityName
+Platform.AppCompat
+Platform.AppCompat.Light
+Platform.ThemeOverlay.AppCompat
+Platform.V21.AppCompat
+Platform.V21.AppCompat.Light
+Platform.V25.AppCompat
+Platform.V25.AppCompat.Light
+Play
+Play 
+Play est n
+Play pakalpojumi.
+Play pakalpojumi. Pa
+Play pakalpojumu atjaunin
+Play pakalpojumu ieg
+Play pakalpojumu iesp
+Play pakalpojumu k
+Play pakalpojumu pieejam
+Play pakalpojumu versija. Dr
+Play, 
+Play, qui ne sont pas compatibles avec votre appareil.
+Play, qui ne sont pas install
+Play, qui sont en cours de mise 
+Play.
+Play. 
+Play. Veuillez r
+pne i nettleseren
+pne p
+pnij link
+pnij przez:
+pnij przez: %s
+Po shkarkohet
+Pobieram
+Pobieranie
+Pobierz
+Pobierz Us
+Podijeli vezu
+Poga Izv
+Pogre
+POIS K
+POIS P
+Poistetaan latauksia
+Poka
+Pomik navzgor
+pondre
+popupMenuStyle
+popupTheme
+popupWindowStyle
+Portami a casa
+positiveButtonText
+Posodobi
+Povoli
+Povolit
+Poziv je u toku
+Poziv u tijeku
+Poziv u toku
+PP%1$s sal nie sonder Google Play Dienste werk nie, wat nie op jou toestel is nie.
+PP%1$s won't run without Google Play services, which are missing from your device.
+PPHindi gagana ang %1$s maliban kung ie-enable mo ang mga serbisyo ng Google Play.
+PPI-%1$s ngeke isebenze ngaphandle kokuthi unike amandla amasevisi we-Google Play.
+ppna i webbl
+ppna p
+PPNuwe weergawe van Google Play Dienste is nodig. Dit sal binnekort self opdateer.
+PR%1$s kan ikke kj
+Prebiehaj
+Preference
+preference
+Preference.Category
+Preference.Category.Material
+Preference.CheckBoxPreference
+Preference.DialogPreference
+Preference.DropDown
+Preference.DropDown.Material
+Preference.Information
+Preference.Information.Material
+Preference.Material
+Preference.PreferenceScreen
+Preference.SeekBarPreference
+Preference.SwitchPreference
+preference_category
+preference_category_material
+preference_copied
+preference_dialog_edittext
+preference_dropdown
+preference_dropdown_material
+preference_icon_minWidth
+preference_information
+preference_information_material
+preference_list_fragment
+preference_material
+preference_recyclerview
+preference_widget_checkbox
+preference_widget_seekbar
+preference_widget_switch
+preference_widget_switch_compat
+preferenceCategoryStyle
+PreferenceFragment
+PreferenceFragment.Material
+preferenceFragmentCompatStyle
+PreferenceFragmentList
+PreferenceFragmentList.Material
+preferenceFragmentListStyle
+preferenceFragmentStyle
+preferenceInformationStyle
+preferences_detail
+preferences_detail_pane_weight
+preferences_detail_width
+preferences_header
+preferences_header_pane_weight
+preferences_header_width
+preferences_sliding_pane_layout
+preferenceScreenStyle
+preferenceStyle
+PreferenceSummaryTextStyle
+preferenceTheme
+PreferenceThemeOverlay
+PreferenceThemeOverlay.v14
+prehliada
+Prejs
+Prekini
+Prekini klic
+Prekini vezu
+Prena
+Prenos
+Prenos je kon
+Prenos ni uspel
+Prenosi
+preserveIconSpacing
+preslednica
+Pretra
+Preuzima se
+Preuzimanja
+Preuzimanja 
+Preuzimanja se uklanjaju
+Preuzimanja su pauzirana
+Preuzimanje
+Preuzimanje je dovr
+Preuzimanje je zavr
+Preuzimanje nije uspelo
+Preuzimanje nije uspjelo
+Preuzimanje usluga Google Playa
+Preuzmi
+Preuzmite Google Play usluge
+Preverjanje dohodnega klica
+Prich
+Prihl
+Prija
+Prijava
+Prijava putem Googlea
+Prijava z ra
+Prijavi me
+Prijavi me na Google
+Prijavi se pomo
+Prika
+primary_dark_material_dark
+primary_dark_material_light
+primary_material_dark
+primary_material_light
+primaryActivityName
+Prisijungti
+Prob
+Probel
+Produciuse un erro na descarga
+progress_circular
+progress_horizontal
+progressBarPadding
+progressBarStyle
+prohl
+project_id
+prouve un probl
+Proverava se dolazni poziv
+PRRakendus %1$s t
+przegl
+Przejd
+PSAplikacija %1$s ne
+psemad
+PTAplikacija %1$s ne
+ptBR
+ptPT
+Puhehaku
+Pumili ng app
+PV%1$s getur ekki keyrt 
+Q%s 
+Qidirish
+Qidiruv
+Qidiruv so
+QQAplikacija %1$s ne deluje brez storitev Google Play, ki se trenutno posodabljajo.
+QQHindi gagana ang %1$s maliban kung i-a-update mo ang mga serbisyo ng Google Play.
+QS%1$s nu va rula f
+Query di ricerca
+Query sa paghahanap
+queryBackground
+queryHint
+queryPatterns
+Quitando descargas
+Qura
+QVJe vy
+QW%1$s nie b
+QWIr nepiecie
+r %1$s kan k
+r eingehenden Anruf
+r Google Play-tjenester
+r Google Plays tj
+r klar
+r link
+r linken
+r se
+r silinir
+r WiFi 
+r. Q
+r. visk
+ra van sz
+Raccrocher
+Rad etish
+Raddleit
+radio
+radioButtonStyle
+RaGoogle Play xidm
+rakoznak
+Ralat perkhidmatan Google Play
+ramata
+ras om du inte uppdaterar Google Play-tj
+ras utan Google Play-tj
+ratingBarStyle
+ratingBarStyleIndicator
+ratingBarStyleSmall
+razmak
+rbimet e "Luaj me Google"
+rbimet e "Luaj me Google".
+rbimet e Google Play, t
+rbimet e Google Play. Provo s
+rbimeve t
+rcarea a fost finalizat
+rcarea nu a reu
+rda g
+rdez
+rdit
+re i
+re nie s
+re p
+re s
+re uden Google Play-tjenester, som i 
+re uten Google Play-tjenester, som ikke er installert p
+re uten Google Play-tjenester, som ikke st
+re, medmindre du opdaterer Google Play-tjenester.
+rea de transfer
+Realiza buscas
+Rebutja
+Rechazar
+Recherche vocale
+Rechercher
+Recolher
+Recusar
+recycler_view
+Reddet
+Reduzir
+Refuser
+Refuzo
+reiz
+Removendo downloads
+Removing downloads
+rende opkald
+renginyje.
+renginys nepalaiko.
+Replega
+report_drawn
+Requ
+rer ikke med mindre du oppdaterer Google Play Tjenester.
+rer ikke uten Google Play-tjenester, som oppdateres akkurat n
+res automatisk om et 
+res/-8.xml
+res/-B.png
+res/-p.png
+res/0c.9.png
+res/0E.xml
+res/0M.xml
+res/0S.xml
+res/0x.9.png
+res/0Z.png
+res/0Z1.png
+res/15.png
+res/1C.9.png
+res/1e.9.png
+res/1g.xml
+res/1I.9.png
+res/1J.9.png
+res/1u.png
+res/1x.xml
+res/27.xml
+res/2d.png
+res/2f.xml
+res/2j.xml
+res/2K.9.png
+res/2z.png
+res/33.9.png
+res/3A.xml
+res/3u.9.png
+res/3W.xml
+res/42.9.png
+res/46.xml
+res/47.xml
+res/49.png
+res/4_.xml
+res/4B.xml
+res/4F.xml
+res/4k.png
+res/4o.png
+res/4u.xml
+res/4z.xml
+res/5c.png
+res/5D.9.png
+res/5J.9.png
+res/5K.png
+res/5P.png
+res/5R.png
+res/5T.xml
+res/5v.png
+res/5z.xml
+res/62.9.png
+res/65.9.png
+res/6d.png
+res/6P.png
+res/6Q.xml
+res/6t.png
+res/6Y.png
+res/71.png
+res/79.9.png
+res/7_.9.png
+res/7C.9.png
+res/7G.xml
+res/7H.xml
+res/7I.9.png
+res/7i.png
+res/7m.png
+res/7N.xml
+res/7o.9.png
+res/7O.png
+res/7R.png
+res/7V.png
+res/80.xml
+res/8F.png
+res/8h.9.png
+res/8h.png
+res/8S.png
+res/8t.xml
+res/9c.png
+res/9k.png
+res/9L.png
+res/9m.xml
+res/9N.9.png
+res/9n.9.png
+res/9T.xml
+res/9T1.xml
+res/9T2.xml
+res/9V.xml
+res/9w.png
+res/9X.9.png
+res/9z.png
+res/9z.xml
+res/_F.png
+res/_g.png
+res/_G.xml
+res/_H.xml
+res/_o.xml
+res/_p.png
+res/_q.png
+res/_y.xml
+res/a-.png
+res/a0.xml
+res/A1.xml
+res/A4.xml
+res/Ac.xml
+res/AE.xml
+res/Af.9.png
+res/Ag.png
+res/aG.xml
+res/AJ.png
+res/aM.xml
+res/aR.png
+res/ar.png
+res/aU.9.png
+res/aU.png
+res/aW.xml
+res/bB.png
+res/bb.xml
+res/Bd.xml
+res/Be.xml
+res/BG.9.png
+res/bi.png
+res/BJ.xml
+res/BJ1.xml
+res/BL.9.png
+res/Bl.xml
+res/bL.xml
+res/BM.png
+res/bm.png
+res/BM1.png
+res/bn.png
+res/bP.xml
+res/BQ.9.png
+res/BT.png
+res/bt.xml
+res/BW.xml
+res/bX.9.png
+res/BX.png
+res/Bz.xml
+res/c5.xml
+res/c6.xml
+res/C_.9.png
+res/ca.png
+res/Ce.png
+res/ce.xml
+res/CF.png
+res/Cg.xml
+res/CH.png
+res/Ci.xml
+res/CK.9.png
+res/Ck.png
+res/cr.xml
+res/cV.xml
+res/D-.xml
+res/D-1.xml
+res/d3.png
+res/d5.9.png
+res/D5.xml
+res/D_.9.png
+res/dB.9.png
+res/Dd.png
+res/De.png
+res/df.xml
+res/DL.9.png
+res/DL.png
+res/dO.xml
+res/dt.png
+res/DV.xml
+res/dW.png
+res/dY.png
+res/DZ.xml
+res/e-.xml
+res/EA.9.png
+res/Ea.png
+res/eA.xml
+res/Ec.png
+res/Eg.xml
+res/Eh.png
+res/ej.9.png
+res/El.png
+res/eN.png
+res/EQ.xml
+res/eR.png
+res/eT.9.png
+res/ev.9.png
+res/EZ.xml
+res/F8.xml
+res/f9.png
+res/fb.png
+res/FE.png
+res/Ff.png
+res/fM.9.png
+res/fN.png
+res/FS.png
+res/fS.xml
+res/FT.xml
+res/Fu.xml
+res/FW.png
+res/fY.xml
+res/g-.xml
+res/G2.9.png
+res/G2.xml
+res/g8.png
+res/GC.xml
+res/Gf.png
+res/GF.xml
+res/GI.png
+res/gj.9.png
+res/gK.9.png
+res/gK.png
+res/GK.xml
+res/Gm.png
+res/gr.png
+res/GR.xml
+res/gR.xml
+res/Gt.9.png
+res/gt.9.png
+res/Gt.xml
+res/gv.png
+res/Gw.png
+res/GY.png
+res/gZ.9.png
+res/h4.xml
+res/h7.9.png
+res/HA.png
+res/ha.xml
+res/Hd.xml
+res/hE.png
+res/hh.9.png
+res/hH.png
+res/hk.png
+res/Hl.png
+res/hm.xml
+res/Ho.png
+res/hP.9.png
+res/hP.xml
+res/hP1.xml
+res/hq.xml
+res/hZ.9.png
+res/i0.png
+res/I3.9.png
+res/i6.9.png
+res/In.xml
+res/io.9.png
+res/iO.png
+res/iQ.png
+res/iQ.xml
+res/iR.9.png
+res/iW.png
+res/IX.9.png
+res/Iy.xml
+res/j3.xml
+res/j4.png
+res/je.9.png
+res/Je.png
+res/JJ.9.png
+res/Jl.xml
+res/JP.xml
+res/jq.png
+res/JR.png
+res/jS.9.png
+res/JS.xml
+res/jS1.9.png
+res/Jv.png
+res/K-.xml
+res/K0.png
+res/K5.png
+res/K5.xml
+res/k8.xml
+res/K_.9.png
+res/k_.xml
+res/Ke.png
+res/ke.png
+res/Ke.xml
+res/kf.png
+res/KG.png
+res/KH.9.png
+res/Ki.png
+res/Ki1.png
+res/kJ.9.png
+res/KJ.png
+res/kj.xml
+res/Kk.png
+res/KL.png
+res/KM.png
+res/km.png
+res/kn.xml
+res/KO.png
+res/kp.png
+res/kS.png
+res/l6.png
+res/L9.png
+res/L_.xml
+res/Lb.png
+res/Lf.xml
+res/Li.9.png
+res/LK.png
+res/ll.png
+res/lN.xml
+res/LO.png
+res/lP.9.png
+res/Lr.xml
+res/lR.xml
+res/LS.png
+res/ls.xml
+res/lX.png
+res/ly.png
+res/m0.png
+res/M7.xml
+res/M_.png
+res/Ma.9.png
+res/ma.png
+res/ma1.png
+res/MD.png
+res/MF.9.png
+res/mG.png
+res/mm.9.png
+res/MO.xml
+res/Mp.xml
+res/NA.9.png
+res/nC.9.png
+res/nf.png
+res/NF.xml
+res/NG.png
+res/nI.9.png
+res/ni.png
+res/Nk.9.png
+res/NM.xml
+res/No.9.png
+res/nP.xml
+res/NT.png
+res/nT.xml
+res/Nu.xml
+res/nv.png
+res/NZ.9.png
+res/nz.xml
+res/o-.png
+res/O4.png
+res/o4.png
+res/o9.9.png
+res/o_.9.png
+res/o_.png
+res/OC.png
+res/oC.png
+res/Oi.xml
+res/Oj.png
+res/Ok.png
+res/Ol.xml
+res/OM.png
+res/oN.png
+res/oO.9.png
+res/op.9.png
+res/Op.png
+res/op.png
+res/oP.xml
+res/OX.png
+res/Ox.png
+res/OX1.png
+res/OZ.xml
+res/p7.xml
+res/p8.png
+res/Pa.9.png
+res/Pb.png
+res/Pb.xml
+res/PC.png
+res/Pg.9.png
+res/PH.png
+res/pI.xml
+res/pk.png
+res/pL.png
+res/Pm.png
+res/pn.png
+res/ps.9.png
+res/PS.png
+res/Pu.png
+res/pu.png
+res/pU.xml
+res/PV.png
+res/pV.xml
+res/pW.png
+res/py.9.png
+res/pY.png
+res/Q-.png
+res/q6.xml
+res/qA.xml
+res/Qb.png
+res/Qd.9.png
+res/qD.9.png
+res/qF.xml
+res/Qg.png
+res/QJ.9.png
+res/qP.png
+res/qp.png
+res/qx.xml
+res/QZ.xml
+res/qz.xml
+res/R8.png
+res/rD.png
+res/RD.xml
+res/RH.xml
+res/Ri.png
+res/rj.9.png
+res/RJ.png
+res/RT.xml
+res/Rt.xml
+res/RV.png
+res/Rv.png
+res/Rv1.png
+res/rW.xml
+res/rx.xml
+res/rY.xml
+res/rz.xml
+res/s0.png
+res/s3.9.png
+res/s4.png
+res/S8.xml
+res/sA.9.png
+res/sA.xml
+res/Sc.xml
+res/sg.9.png
+res/Sh.xml
+res/SN.xml
+res/sn.xml
+res/Su.9.png
+res/SV.9.png
+res/Sw.png
+res/t1.xml
+res/T5.xml
+res/T6.png
+res/t8.xml
+res/td.png
+res/tG.png
+res/Th.png
+res/Tj.9.png
+res/TK.xml
+res/tk.xml
+res/Tl.xml
+res/tL.xml
+res/Tn.xml
+res/To.png
+res/Tp.png
+res/tP.png
+res/tr.9.png
+res/Tr.png
+res/tS.png
+res/tU.9.png
+res/tZ.9.png
+res/U-.9.png
+res/u0.xml
+res/U2.png
+res/U8.xml
+res/UE.9.png
+res/uj.9.png
+res/uJ.xml
+res/uK.xml
+res/uL.9.png
+res/uO.png
+res/us.9.png
+res/ut.9.png
+res/uu.9.png
+res/UX.xml
+res/V1.xml
+res/v2.png
+res/v4.9.png
+res/V7.xml
+res/va.png
+res/vG.xml
+res/vJ.xml
+res/vL.9.png
+res/VM.xml
+res/VN.xml
+res/vo.png
+res/vq.png
+res/vq.xml
+res/vr.png
+res/VT.xml
+res/VW.png
+res/vx.png
+res/vz.9.png
+res/vZ.xml
+res/w2.9.png
+res/W4.9.png
+res/w4.png
+res/W5.png
+res/w7.png
+res/w_.png
+res/Wh.png
+res/wL.9.png
+res/wN.9.png
+res/wo.png
+res/Ws.xml
+res/Wz.png
+res/X-.png
+res/X3.9.png
+res/x3.9.png
+res/X4.9.png
+res/X6.xml
+res/xa.9.png
+res/XD.png
+res/XH.png
+res/xj.xml
+res/Xk.png
+res/XK.xml
+res/xN.xml
+res/xR.9.png
+res/XV.png
+res/XW.xml
+res/xx.png
+res/Xx.xml
+res/XY.xml
+res/y-.xml
+res/Y3.png
+res/y4.xml
+res/y6.xml
+res/Y7.9.png
+res/Y9.png
+res/YB.png
+res/YD.png
+res/YG.9.png
+res/yg.9.png
+res/YG.xml
+res/yH.9.png
+res/yi.png
+res/yn.png
+res/yn1.png
+res/yP.png
+res/Yt.9.png
+res/yV.xml
+res/Yw.9.png
+res/YW.xml
+res/yY.9.png
+res/Yz.png
+res/z-.9.png
+res/z9.9.png
+res/zE.png
+res/Zg.xml
+res/ZI.png
+res/zk.png
+res/ZL.9.png
+res/zL.png
+res/ZN.9.png
+res/ZN.xml
+res/Zn.xml
+res/zn.xml
+res/ZP.xml
+res/zq.xml
+res/zV.9.png
+res/zw.9.png
+res/zz.png
+Respinge
+Respon
+Responder
+Restr
+Retorn
+retur
+Revenir 
+Revenir en arri
+Revenir en haut de la page
+reverseLayout
+Rexeitar
+rfundoi
+rgjigju
+rgo pyetjen
+rgsel
+rgu ootel
+rhet
+ri aras
+ri olmadan 
+ri olmadan %1$s t
+ri x
+ri yenil
+ria e sh
+ria uma nova vers
+Riaggancia
+Ricerca vocale
+Rifiuta
+right
+right_icon
+right_side
+rile
+rile a
+rile au fost 
+rilir
+Rimozione dei download
+ring
+ring.
+ringu esitamine
+ringu t
+rini 
+rini aktiv ed
+rini aktiv edin
+rini g
+rinin 
+rinin yeni versiyas
+ripple_material_dark
+ripple_material_light
+rir 
+rir sig sj
+rish.
+Rispondi
+rkim me z
+rko pyetjen
+rksforbindelse
+rnatish
+rnatish lozim.
+Rohkem valikuid
+rov yaratish
+rova
+rovan
+rovat
+rovat odkaz
+rovi
+rovni o
+rparuara
+RR%1$s ez da exekutatuko Google Play Services gabe, baina ez dago halakorik gailuan.
+rskenda
+rskendab end peagi.
+rskendama Google Play teenuseid.
+rskendamine
+rskendatakse.
+rt p
+rt t
+RT%1$s fungerer ikke uden Google Play-tjenester, som ikke underst
+RTEn ny version av Google Play-tj
+rtraukt
+rtrauktas.
+ruang
+Runtuhkan
+rvarande.
+rvietoties uz aug
+rvietoties uz s
+Ryd foresp
+rz na telefonie
+rz w
+rze automatisch aktualisiert.
+s a f
+s a k
+s a telefonon
+s befejez
+s compatible amb el teu dispositiu.
+s csak akkor fog m
+s csak akkor m
+s folyamatban
+s Google-fi
+s hamarosan friss
+s nem fut a Google Play-szolg
+s opciones
+s opcions
+s probl
+s sur votre appareil.
+s sz
+S'est
+S'estan suprimint les baixades
+S'ha completat la baixada
+S^Ke spu
+S`Programa 
+sa m
+sa s
+Saapuva puhelu
+SACTIV
+SACTIVER
+Sagutin
+Saite ir kop
+Sakinisha
+Salin
+Salin link
+Salin pautan
+Samenvouwen
+sans-serif
+sans-serif-medium
+Sao ch
+saren
+Sarrerako dei bat bistaratzen
+Sarrerako deia
+sartu
+sas s
+Sasisha
+Sasisha huduma za Google Play
+save_non_transition_alpha
+save_overlay_view
+Sbalit
+Scarica
+Scelta di un'app
+schen
+scopeUris
+screen
+Screening an incoming call
+scrollIndicatorDown
+scrollIndicatorUp
+scrollView
+scula+
+Se alle
+Se complet
+Se connecter
+Se connecter avec Google
+Se descarc
+Se elimin
+Se filtreaz
+se folyamatban
+se folyamatban van.
+se nuk aktivizon sh
+se nuk p
+Se pausaron las descargas
+Search
+Search query
+search_badge
+search_bar
+search_button
+search_close_btn
+search_edit_frame
+search_go_btn
+search_mag_icon
+search_menu_title
+search_plate
+search_src_text
+search_voice_btn
+searchHintIcon
+searchIcon
+searchViewStyle
+seau
+secondaryActivityAction
+secondaryActivityName
+See all
+seekbar
+seekbar_value
+seekBarIncrement
+seekBarPreferenceStyle
+seekBarStyle
+SEES
+sek h
+sek sz
+sek t
+sek Wi-Fi-re v
+Selecciona una aplicaci
+Selecciona unha aplicaci
+Seleccionar una aplicaci
+Selecionar um app
+select_dialog_item_material
+select_dialog_listview
+selectable
+selectableItemBackground
+Selesai
+Sen configurar
+Senda fyrirspurn
+Serah pertanyaan
+Sesha
+Sesha umbuzo
+Sesli arama
+Setja upp
+Seulotaan saapuvaa puhelua
+Share link
+Share with
+Share with 
+Share with %s
+Shfaq 
+SHIFT
+Shift
+Shift 
+Shift +
+Shift+
+Shiriki kiungo
+Shiriki na
+Shiriki ukitumia %s
+Shkarkimet
+Shkarkimet n
+Shkarkimet po hiqen
+Shkarkimi d
+Shkarkimi p
+Shkarko
+shortcut
+shortcutMatchRequired
+shouldDisableView
+showAsAction
+showCustom
+showDividers
+showHome
+showSeekBarValue
+showText
+showTitle
+shteten nga pajisja jote.
+shtoi
+si lek
+Sien alles
+Sign In
+Sign in
+Sign in with Google
+Siirry etusivulle
+Siirry yl
+silin
+Simbolu tausti
+Simbool+
+Simu inayoendelea
+Simu uliyopigiwa
+Sin definir
+Sin establecer
+singleChoiceItemLayout
+singleLineTitle
+sini g
+sisestusklahv
+Sissetulev k
+Sissetuleva k
+sit se
+sit se k
+Skakel is na knipbord gekopieer
+Skat
+Skicka fr
+Skift
+Skjul
+Skupi
+Skupna raba z:
+slet
+slett
+Slett s
+sli axtar
+Smazat dotaz
+so sh
+Soek
+Soek 
+Soektognavraag
+Sogeza juu
+sohen aktualisht.
+sohet automatikisht s
+sok 
+sok beszerz
+sok el
+sok enged
+sok friss
+sok haszn
+sok n
+sokat.
+solva
+solva.
+son sh
+Sorguyu g
+Sorguyu temizle
+Space
+space
+spacer
+spacja
+spanCount
+spasi
+spasiebalk
+spatie
+SPAZIO
+Speci
+spinBars
+spinner
+spinnerDropDownItemStyle
+spinnerStyle
+split_action_bar
+splitLayoutDirection
+splitMaxAspectRatioInLandscape
+splitMaxAspectRatioInPortrait
+splitMinHeightDp
+splitMinSmallestWidthDp
+splitMinWidthDp
+splitRatio
+splitTrack
+Sprachsuche
+Sprejmi
+spunde
+squeda
+squeda por voz
+src_atop
+src_in
+src_over
+srcCompat
+SS%1$s ez da exekutatuko Google Play Services gabe; zerbitzu hori eguneratzen ari da.
+SS%1$s ilovasining ishlashi uchun zarur Google Play xizmatlari hozirda yangilanmoqda.
+ssal: %s
+SSKudingeka inguqulo entsha yamasevisi we-Google Play. Izozibuyekeza ngokwayo maduze.
+sszecsuk
+sszes megtekint
+st Karakter+
+ST%1$s ne fonctionnera pas tant que vous n'aurez pas activ
+ST%1$s non funzioner
+stackFromEnd
+Stahov
+standard
+start
+state_above_anchor
+status_bar_latest_event_content
+statusBarBackground
+ste to znova.
+Stemsoektog
+ster
+sti atsis., laukiama 
+sti atsis., laukiama tinklo
+Stiahnu
+Stiahnut
+stickyPlaceholder
+stiniai
+Strg
+string
+Strnitev
+stuklahv +
+style
+su ier
+SU%1$s ne fonctionnera pas tant que vous n'aurez pas activ
+subMenuArrow
+submenuarrow
+Submit query
+submit_area
+submitBackground
+subtitle
+subtitleTextAppearance
+subtitleTextColor
+subtitleTextStyle
+Suchanfrage
+Suchanfrage l
+Suche
+Suchen
+suggestionRowLayout
+Sula inkinga
+summary
+summaryOff
+summaryOn
+supprimer
+Supr
+Suprimir
+SUSe necesita una nueva versi
+Sutraukti
+Suzi
+Svar
+Svara
+SVCal una nova versi
+svemir
+SW%1$s kan inte k
+switch_thumb_material_dark
+switch_thumb_material_light
+switchMinWidth
+switchPadding
+switchPreferenceCompatStyle
+switchPreferenceStyle
+switchStyle
+switchTextAppearance
+switchTextOff
+switchTextOn
+switchWidget
+Sym 
+SYM +
+Sym +
+Sym+
+Sym-Taste
+Symbol
+Szukaj
+t ar balsi
+t dac
+t install
+t na plochu
+t nahoru
+t nicht installiert sind.
+t nicht unterst
+t saiti
+t th
+t vaic
+t visu
+Ta bort fr
+ta starpliktuv
+tab ainult koos Google Play teenustega, mida praegu v
+tab ainult koos Google Play teenustega, mida teie seadmes ei toetata.
+tab ainult koos Google Play teenustega, mida teie seadmes pole.
+tab ainult siis, kui lubate Google Play teenused.
+tabMode
+Tafuta
+tag_accessibility_actions
+tag_accessibility_heading
+tag_accessibility_pane_title
+tag_on_apply_window_listener
+tag_on_receive_content_listener
+tag_screen_reader_focusable
+tag_state_description
+tag_transition_group
+tag_unhandled_key_event_manager
+tag_unhandled_key_listeners
+Tales
+talova
+Tamatkan Panggilan
+tamiseks peate v
+Tanggihan
+Tapos na
+Tapos na ang pag-download
+Taray
+tarlegt
+tase a nova versi
+taste
+taster za razmak
+Tayinlanmagan
+tbiq se
+tbiqi i
+tbiqi il
+tce nast
+te de recherche
+teapt
+Teilen mit
+Telefonat
+Telefonda a
+Telefonda ochish
+telefonu
+Telep
+Telusuri
+Telusuri kueri
+Telusuri...
+terge
+Termen de c
+Termin
+Terperinci
+text
+text2
+textAllCaps
+TextAppearance.AppCompat
+TextAppearance.AppCompat.Body1
+TextAppearance.AppCompat.Body2
+TextAppearance.AppCompat.Button
+TextAppearance.AppCompat.Large
+TextAppearance.AppCompat.Medium
+TextAppearance.AppCompat.Menu
+TextAppearance.AppCompat.Small
+TextAppearance.AppCompat.Title
+textAppearanceLargePopupMenu
+textAppearanceListItem
+textAppearanceListItemSecondary
+textAppearanceListItemSmall
+textAppearancePopupMenuHeader
+textAppearanceSearchResultTitle
+textAppearanceSmallPopupMenu
+textColorAlertDialogListItem
+textColorSearchUrl
+textLocale
+textSpacerNoButtons
+textSpacerNoTitle
+tfen tekrar deneyin.
+theme
+Theme.AppCompat
+Theme.AppCompat.CompactMenu
+Theme.AppCompat.DayNight
+Theme.AppCompat.DayNight.Dialog
+Theme.AppCompat.Dialog
+Theme.AppCompat.Dialog.Alert
+Theme.AppCompat.Dialog.MinWidth
+Theme.AppCompat.DialogWhenLarge
+Theme.AppCompat.Light
+Theme.AppCompat.Light.Dialog
+Theme.AppCompat.NoActionBar
+ThemeOverlay.AppCompat
+ThemeOverlay.AppCompat.Dark
+ThemeOverlay.AppCompat.DayNight
+ThemeOverlay.AppCompat.Dialog
+ThemeOverlay.AppCompat.Light
+thickness
+Thola amasevisi we-Google Play
+Thu g
+thumbTextPadding
+thumbTint
+thumbTintMode
+Thumela umbuzo
+ti a Google Play-szolg
+ticament aviat.
+ticamente en breve.
+tickMark
+tickMarkTint
+tickMarkTintMode
+Tidak ditetapkan
+ties
+ties ar Google kontu
+tigt. Diese wird in K
+Tiivist
+time
+Tingnan lahat
+tint
+tintMode
+tirin
+tirmezseniz %1$s 
+tish
+title
+title_template
+titleDividerNoCustom
+titleMargin
+titleMarginBottom
+titleMarginEnd
+titleMargins
+titleMarginStart
+titleMarginTop
+titleTextAppearance
+titleTextColor
+titleTextStyle
+tnout
+Tolak
+Tolestu
+tomto za
+toolbarNavigationButtonStyle
+toolbarStyle
+tooltip_background_dark
+tooltip_background_light
+tooltip_corner_radius
+tooltip_frame_dark
+tooltip_frame_light
+tooltip_horizontal_padding
+tooltip_margin
+tooltip_vertical_padding
+tooltip_y_offset_non_touch
+tooltip_y_offset_touch
+tooltipForegroundColor
+tooltipFrameBackground
+tooltipText
+topPanel
+topToBottom
+Torna indietro
+Tout afficher
+track
+trackTint
+trackTintMode
+Transfer
+Transferir
+transition_current_scene
+transition_layout_save
+transition_position
+transition_scene_layoutid_cache
+transition_transform
+tres avanc
+Trimite
+Trimite linkul
+Trucada en curs
+Trucada entrant
+Truy v
+Trwa po
+tt a Google Play-szolg
+tt ett fel mellan %1$s och Google Play-tj
+TT%1$s tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui.
+TT%1$s won't run without Google Play services, which are not supported by your device.
+ttcIndex
+ttes av enheten din.
+ttes p
+tu Google
+TUAplikacija %1$s ne deluje brez storitev Google Play, ki jih va
+Tugatish
+Tunjukkan jalan ke rumah
+Tutup
+TV%1$s ne mo
+tverket
+TWRakendus %1$s t
+Tyhjenn
+tzt werden.
+u anda cihaz
+u anda g
+u aplikacije %s
+u Googlea
+u kh
+U krye
+u no
+Udost
+ug Google Play
+ug Google Play, kt
+ug Google Play.
+ug Google Play. Spr
+ug Google Play. Wkr
+ugi Google Play
+ugiwane przez urz
+uje sa stiahnut
+Uklanjanje preuzimanja
+UKLJU
+Ukulanda kuhlulekile
+Ukulanda kulinde i-WiFi
+Ukulanda kulinde inethiwekhi
+Ukulanda kuqedile
+Ukulandwa
+Ukusesha ngezwi
+Ukuveza ikholi engenayo
+Ulashish
+um me
+umemoriju
+umemoriju.
+Umschalttaste
+unchecked
+uniform
+unom Google
+unu g
+unu silin
+ununla payla
+Upakuaji unasubiri mtandao
+Upakuaji unasubiri Wi-Fi
+Update
+Update Google Play services
+Updaten
+updatesContinuously
+Upit za pretra
+Uppdatera
+Uppdatera Google Play-tj
+Uppf
+urare
+urhal
+urhal mist
+urhali loki
+uriraj
+urirajte Google Play usluge
+uriraju.
+uriranje Google Play usluga
+uriranje usluga Google Playa
+urirate Google Play usluge.
+urirati.
+useLogo
+useSimpleSummaryProvider
+uspremnik
+uspremnik.
+Usuwam pobrane
+utare
+utare vocal
+UU%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di perangkat Anda.
+UUToleo jipya la huduma za Google Play linahitajika. Litajisasisha baada ya muda mfupi.
+UV%1$s non funzioner
+v igen.
+v7_preference_off
+v7_preference_on
+V]Na spustenie aplik
+Vai ao inicio
+Vai cara arriba
+Vaihto+
+Vaizdo 
+VALA
+Vala Ucingo
+Valige rakendus
+Valikko+
+Valitse sovellus
+Valmis
+Valmynd+
+valyti u
+vanie
+Vasta
+Vastaa
+vcud olmayan Google Play xidm
+Vee navraag uit
+veis com o seu dispositivo.
+vel com seu dispositivo.
+vel executar o %1$s sem os Servi
+vel:
+Veldu forrit
+Velg en app
+Ver todas
+Ver todo
+Ver tudo
+Verwyder tans aflaaie
+vetkez
+Vide
+Video
+Videozapis
+view_tree_lifecycle_owner
+viewInflaterClass
+Viga Google Play teenustes
+Villa 
+Vipakuliwa
+Virhe Google Play -palveluissa
+Virkja 
+Visa alla
+VKLOP
+VKLOPLJENO
+Voice search
+voiceIcon
+Vou in
+Vratite se na po
+vs. Den uppdateras automatiskt inom kort.
+VULA
+Vula kufoni
+Vula kusiphequluli
+VV%1$s ngeke isebenze ngaphandle kwamasevisi e-Google Play, angasekelwa idivayisi yakho.
+VVGoogle Play Services-en bertsio berria behar da. Berehala eguneratuko da automatikoki.
+vwNo es posible ejecutar la aplicaci
+VX%1$s kan ikke kj
+VX%1$s n
+VXRakendus %1$s t
+Vybra
+Vybrat aplikaci
+Vyhledat
+Vykstantis skambutis
+Vymaza
+VYP.
+Vypnut
+Vypnuto
+W]A(z) %1$s alkalmaz
+Washa
+Washa huduma za Google Play
+Wasilisha hoja
+Weigeren
+Weitere Optionen
+Wi-Fi
+Wi-Fi 
+wide
+Wideo
+Widget.AppCompat.ActionBar
+Widget.AppCompat.ActionButton
+Widget.AppCompat.ActionMode
+Widget.AppCompat.Button
+Widget.AppCompat.Button.Colored
+Widget.AppCompat.Button.Small
+Widget.AppCompat.ButtonBar
+Widget.AppCompat.EditText
+Widget.AppCompat.ImageButton
+Widget.AppCompat.ListMenuView
+Widget.AppCompat.ListView
+Widget.AppCompat.ListView.Menu
+Widget.AppCompat.PopupMenu
+Widget.AppCompat.PopupWindow
+Widget.AppCompat.ProgressBar
+Widget.AppCompat.RatingBar
+Widget.AppCompat.SearchView
+Widget.AppCompat.SeekBar
+Widget.AppCompat.Spinner
+Widget.AppCompat.TextView
+Widget.AppCompat.Toolbar
+widgetLayout
+windowActionBar
+windowActionBarOverlay
+windowActionModeOverlay
+windowFixedHeightMajor
+windowFixedHeightMinor
+windowFixedWidthMajor
+windowFixedWidthMinor
+windowMinWidthMajor
+windowMinWidthMinor
+windowNoTitle
+Wird heruntergeladen
+withText
+wrap_content
+Wstrzymano pobieranie
+WWI-%1$s ngeke ize iqalise ngaphandle kwamasevisi we-Google Play, okwamanje abuyekezwayo.
+WX%1$s ne fonctionnera pas tant que vous n'aurez pas mis 
+WXL'app %1$s non funzioner
+WY%1$s ne fonctionnera pas tant que vous n'aurez pas mis 
+Wybierz aplikacj
+Wyczy
+Wys af
+Wyszukiwanie g
+WZ%1$s ne
+WZWymagana jest nowa wersja Us
+X\O %1$s n
+X^A(z) %1$s alkalmaz
+X^Aplikacja %1$s nie b
+Xem t
+XeNaudojant program
+Xong
+Xs%1$s s
+XXHindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na wala sa iyong device.
+xxL'application %1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas pris en charge par votre appareil.
+XZ%1$s nu va rula f
+XZGoogle Play xizmatlarining yangi versiyasi zarur. U o
+y ch
+y hi
+y th
+y tr
+Y[%1$s ne fonctionnera pas sans les services Google
+Y]L'application %1$s 
+Yabelana ne-%s
+Yabelana ngesixhumanisi
+Yabelana no
+Yana
+Yangilash
+Yenqaba
+yi as
+ynniss
+YONIQ
+Yopish
+YOQILMAGAN
+Yoqish
+yor. L
+yti auk
+Yukar
+Yuklab olindi
+Yuklab olinmadi
+Yuklab olinmoqda
+Yuklab olish
+Yuklanmalar
+Yuklanmalar olib tashlanmoqda
+Yuklanmalar pauzada
+Yuxar
+YZ%1$s ne fonctionnera pas sans les services Google Play, qui sont actuellement mis 
+YZ%1$s non se executar
+YZLa aplicaci
+z taraf
+Zaawansowane
+Zainstaluj
+Zako
+Zaktualizuj Us
+Zaloguj si
+ZAP.
+Zapnut
+Zapnuto
+Zapytanie
+zatra v
+Zavrni
+Zbali
+ZbVy
+ZcKe spu
+zda bulunmayan Google Play hizmetleri olmadan 
+zda m
+Zdie
+ze nem t
+Zgjidh nj
+zhCN
+zhHK
+zhTW
+zini qisqa vaqt ichida yangilaydi.
+Zobrazi
+Zobrazit v
+Zoeken
+Zoekopdracht
+Zoekopdracht verzenden
+Zoekopdracht wissen
+Zulazulela ekhaya
+Zulazulela phezulu
+Zur Startseite
+zuriunea

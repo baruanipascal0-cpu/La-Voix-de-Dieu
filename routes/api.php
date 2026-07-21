@@ -81,6 +81,7 @@ Route::prefix('v1')->group(function (): void {
         Route::get('dm/calls', [CallController::class, 'dmIndex'])->middleware(['auth:sanctum', 'ability:access-api']);
         Route::post('dm/calls', [CallController::class, 'dmStore'])->middleware(['auth:sanctum', 'ability:access-api']);
         Route::post('dm/calls/seen', [CallController::class, 'markDmSeen'])->middleware(['auth:sanctum', 'ability:access-api']);
+        Route::get('dm/contacts', [DirectMessageController::class, 'contacts'])->middleware(['auth:sanctum', 'ability:access-api']);
         Route::get('dm', [DirectMessageController::class, 'index'])->middleware(['auth:sanctum', 'ability:access-api']);
         Route::post('dm', [DirectMessageController::class, 'store'])->middleware(['auth:sanctum', 'ability:access-api']);
         Route::get('dm/{conversation}', [DirectMessageController::class, 'show'])->middleware(['auth:sanctum', 'ability:access-api']);

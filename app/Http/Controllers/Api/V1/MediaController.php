@@ -36,15 +36,17 @@ class MediaController extends Controller
         $file = $validated['file'];
         $collection = Str::slug($validated['collection'] ?? 'general') ?: 'general';
         $directory = 'uploads/'.$request->user()->id.'/'.$collection.'/'.now()->format('Y/m/d');
-        $path = $file->storePublicly($directory, ['disk' => 'public']);
+        $disk = $this->uploadDisk();
+        $path = $file->storePublicly($directory, ['disk' => $disk]);
+        $url = Storage::disk($disk)->url($path);
 
         $upload = MediaUpload::create([
             'user_id' => $request->user()->id,
             'collection' => $collection,
-            'disk' => 'public',
+            'disk' => $disk,
             'visibility' => 'public',
             'path' => $path,
-            'url' => Storage::disk('public')->url($path),
+            'url' => $this->absoluteUrl($url),
             'original_name' => $file->getClientOriginalName(),
             'mime_type' => $file->getMimeType(),
             'file_size' => $file->getSize() ?: 0,
@@ -95,5 +97,21 @@ class MediaController extends Controller
             'created_at' => $upload->created_at?->toISOString(),
             'createdAt' => $upload->created_at?->toISOString(),
         ];
+    }
+
+    private function uploadDisk(): string
+    {
+        $disk = (string) config('filesystems.default', 'public');
+
+        return $disk === 'local' ? 'public' : $disk;
+    }
+
+    private function absoluteUrl(string $url): string
+    {
+        if (Str::startsWith($url, ['http://', 'https://'])) {
+            return $url;
+        }
+
+        return url($url);
     }
 }

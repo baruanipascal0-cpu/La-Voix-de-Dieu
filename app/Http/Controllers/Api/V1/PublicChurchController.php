@@ -12,6 +12,7 @@ use App\Models\ChurchMember;
 use App\Models\ChurchPhoto;
 use App\Models\CommitteeMember;
 use App\Models\DailyQuote;
+use App\Models\DailyVerse;
 use App\Models\Jurisdiction;
 use App\Models\PastorCalendarEvent;
 use App\Models\PrayerRoom;
@@ -244,6 +245,54 @@ class PublicChurchController extends Controller
                 'last_page' => $quotes->lastPage(),
                 'per_page' => $quotes->perPage(),
                 'total' => $quotes->total(),
+            ],
+        ]);
+    }
+
+    public function verse(): JsonResponse
+    {
+        $today = now()->toDateString();
+
+        $verse = DailyVerse::query()
+            ->where('is_active', true)
+            ->where(function ($query) use ($today): void {
+                $query
+                    ->whereDate('verse_date', '<=', $today)
+                    ->orWhereNull('verse_date');
+            })
+            ->orderByDesc('verse_date')
+            ->orderBy('sort_order')
+            ->latest()
+            ->first();
+
+        return response()->json([
+            'data' => $verse ? $this->versePayload($verse) : null,
+            'verse' => $verse ? $this->versePayload($verse) : null,
+        ]);
+    }
+
+    public function verses(Request $request): JsonResponse
+    {
+        $perPage = min((int) $request->integer('per_page', 30), 100);
+
+        $verses = DailyVerse::query()
+            ->where('is_active', true)
+            ->orderByDesc('verse_date')
+            ->orderBy('sort_order')
+            ->paginate($perPage);
+
+        $data = $verses->getCollection()
+            ->map(fn (DailyVerse $verse): array => $this->versePayload($verse))
+            ->values();
+
+        return response()->json([
+            'data' => $data,
+            'verses' => $data,
+            'meta' => [
+                'current_page' => $verses->currentPage(),
+                'last_page' => $verses->lastPage(),
+                'per_page' => $verses->perPage(),
+                'total' => $verses->total(),
             ],
         ]);
     }
@@ -508,6 +557,24 @@ class PublicChurchController extends Controller
             'image' => $quote->image_url,
             'quote_date' => $quote->quote_date?->toDateString(),
             'quoteDate' => $quote->quote_date?->toDateString(),
+        ];
+    }
+
+    private function versePayload(DailyVerse $verse): array
+    {
+        return [
+            'id' => $verse->id,
+            'verse' => $verse->verse,
+            'text' => $verse->verse,
+            'content' => $verse->verse,
+            'reference' => $verse->reference,
+            'version' => $verse->version,
+            'image_url' => $verse->image_url,
+            'imageUrl' => $verse->image_url,
+            'image' => $verse->image_url,
+            'verse_date' => $verse->verse_date?->toDateString(),
+            'verseDate' => $verse->verse_date?->toDateString(),
+            'date' => $verse->verse_date?->toDateString(),
         ];
     }
 

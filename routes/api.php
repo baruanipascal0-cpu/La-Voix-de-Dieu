@@ -61,6 +61,8 @@ Route::prefix('v1')->group(function (): void {
         Route::get('programs', [PublicChurchController::class, 'programs']);
         Route::get('quote', [PublicChurchController::class, 'quote']);
         Route::get('quotes', [PublicChurchController::class, 'quotes']);
+        Route::get('verse', [PublicChurchController::class, 'verse']);
+        Route::get('verses', [PublicChurchController::class, 'verses']);
         Route::get('prayer-rooms', [PublicChurchController::class, 'prayerRooms']);
         Route::post('prayer-rooms/launch', [PublicChurchController::class, 'launchPrayerRoom'])->middleware(['auth:sanctum', 'ability:access-api']);
         Route::get('pastor-calendar', [PublicChurchController::class, 'pastorCalendar']);

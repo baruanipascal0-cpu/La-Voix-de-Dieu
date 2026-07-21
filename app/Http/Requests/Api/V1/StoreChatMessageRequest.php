@@ -25,6 +25,15 @@ class StoreChatMessageRequest extends FormRequest
             'mediaUrl' => ['nullable', 'url'],
             'audio_url' => ['nullable', 'url'],
             'audioUrl' => ['nullable', 'url'],
+            'media_id' => ['nullable', 'integer'],
+            'mediaId' => ['nullable', 'integer'],
+            'duration' => ['nullable', 'string', 'max:40'],
+            'duration_label' => ['nullable', 'string', 'max:40'],
+            'durationLabel' => ['nullable', 'string', 'max:40'],
+            'mime_type' => ['nullable', 'string', 'max:120'],
+            'mimeType' => ['nullable', 'string', 'max:120'],
+            'file_name' => ['nullable', 'string', 'max:180'],
+            'fileName' => ['nullable', 'string', 'max:180'],
             'metadata' => ['nullable', 'array'],
         ];
     }
@@ -47,7 +56,12 @@ class StoreChatMessageRequest extends FormRequest
                 ?? $this->input('type')
                 ?? ($this->mediaUrl() ? 'audio' : 'text'),
             'media_url' => $this->mediaUrl(),
-            'metadata' => $this->input('metadata', []),
+            'metadata' => array_filter(array_merge($this->input('metadata', []), [
+                'media_id' => $this->input('media_id') ?? $this->input('mediaId'),
+                'duration' => $this->input('duration') ?? $this->input('duration_label') ?? $this->input('durationLabel'),
+                'mime_type' => $this->input('mime_type') ?? $this->input('mimeType'),
+                'file_name' => $this->input('file_name') ?? $this->input('fileName'),
+            ]), fn ($value): bool => filled($value)),
         ];
     }
 

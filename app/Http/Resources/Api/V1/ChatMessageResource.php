@@ -4,11 +4,16 @@ namespace App\Http\Resources\Api\V1;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
+use Illuminate\Support\Carbon;
 
 class ChatMessageResource extends JsonResource
 {
     public function toArray(Request $request): array
     {
+        $metadata = $this->metadata ?? [];
+        $isMine = $this->sender_id === $request->user()?->id;
+        $seen = $this->seenByRecipients($request);
+
         return [
             'id' => $this->id,
             'uuid' => $this->uuid,
@@ -32,12 +37,46 @@ class ChatMessageResource extends JsonResource
             'mediaUrl' => $this->media_url,
             'audio_url' => $this->message_type === 'audio' ? $this->media_url : null,
             'audioUrl' => $this->message_type === 'audio' ? $this->media_url : null,
+            'media_id' => $metadata['media_id'] ?? null,
+            'mediaId' => $metadata['media_id'] ?? null,
+            'duration' => $metadata['duration'] ?? null,
+            'mime_type' => $metadata['mime_type'] ?? null,
+            'mimeType' => $metadata['mime_type'] ?? null,
+            'file_name' => $metadata['file_name'] ?? null,
+            'fileName' => $metadata['file_name'] ?? null,
             'metadata' => $this->metadata ?? [],
+            'is_mine' => $isMine,
+            'isMine' => $isMine,
+            'seen' => $seen,
+            'is_seen' => $seen,
+            'isSeen' => $seen,
             'status' => $this->status,
             'reported_at' => $this->reported_at?->toISOString(),
             'reportedAt' => $this->reported_at?->toISOString(),
             'created_at' => $this->created_at?->toISOString(),
             'createdAt' => $this->created_at?->toISOString(),
         ];
+    }
+
+    private function seenByRecipients(Request $request): bool
+    {
+        $user = $request->user();
+
+        if (! $user || $this->sender_id !== $user->id || $this->scope !== 'dm' || ! $this->created_at) {
+            return false;
+        }
+
+        if (! $this->relationLoaded('conversation') || ! $this->conversation?->relationLoaded('participants')) {
+            return false;
+        }
+
+        return $this->conversation->participants
+            ->where('id', '!=', $user->id)
+            ->contains(function ($participant): bool {
+                $readAt = $participant->pivot?->last_read_at;
+
+                return filled($readAt)
+                    && Carbon::parse($readAt)->greaterThanOrEqualTo($this->created_at);
+            });
     }
 }

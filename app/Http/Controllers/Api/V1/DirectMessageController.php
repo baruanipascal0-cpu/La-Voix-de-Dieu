@@ -40,7 +40,7 @@ class DirectMessageController extends BaseSocialController
 
         return response()->json([
             'message' => 'Message prive envoye.',
-            'data' => $this->messagePayload($message->load('sender', 'conversation'), $request),
+            'data' => $this->messagePayload($message->load('sender', 'conversation.participants'), $request),
             'chat_message' => $this->messagePayload($message, $request),
             'chatMessage' => $this->messagePayload($message, $request),
             'conversation' => $this->conversationPayload($conversation, $request->user(), request: $request),
@@ -74,7 +74,7 @@ class DirectMessageController extends BaseSocialController
 
         return response()->json([
             'message' => 'Message prive envoye.',
-            'data' => $this->messagePayload($message->load('sender', 'conversation'), $request),
+            'data' => $this->messagePayload($message->load('sender', 'conversation.participants'), $request),
             'chat_message' => $this->messagePayload($message, $request),
             'chatMessage' => $this->messagePayload($message, $request),
             'conversation' => $this->conversationPayload($conversation, $request->user(), request: $request),

@@ -45,7 +45,7 @@ abstract class BaseSocialController extends Controller
         $limit = min((int) $request->integer('limit', 50), 100);
 
         return $query
-            ->with(['sender', 'group'])
+            ->with(['sender', 'group', 'conversation.participants'])
             ->where('status', 'published')
             ->latest()
             ->limit($limit)
